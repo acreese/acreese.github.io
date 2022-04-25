@@ -13,7 +13,7 @@
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
       <guid>https://acreese.github.io/portfolio/memes/</guid>
-      <description>&lt;p&gt;Data wrangling of meme text, images, and 82 language sentiment lexicons into a relational database for language and sentiment analysis.&lt;/p&gt;
+      <description>&lt;p&gt;Data wrangling using Python and SQL meme text, images, and 82 language sentiment lexicons into a relational database for language and sentiment analysis. Visualization with Tableau.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Python | SQL | Tableau&lt;/p&gt;
 &lt;/blockquote&gt;</description>
