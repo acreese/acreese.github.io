@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Alexander Reese</title>
-    <link>https://example.org/portfolio/</link>
+    <link>https://acreese.github.io/portfolio/</link>
     <description>Recent content in Portfolios on Alexander Reese</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate><atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate><atom:link href="https://acreese.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meme Generator Language and Sentiment Analysis</title>
-      <link>https://example.org/portfolio/memes/</link>
+      <link>https://acreese.github.io/portfolio/memes/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/memes/</guid>
+      <guid>https://acreese.github.io/portfolio/memes/</guid>
       <description>&lt;p&gt;Data wrangling of meme text, images, and 82 language sentiment lexicons into a relational database for language and sentiment analysis.&lt;/p&gt;
 &lt;p&gt;Python | SQL | Tableau&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Georgia Tech Executive Dashboards</title>
-      <link>https://example.org/portfolio/gtpe/</link>
+      <link>https://acreese.github.io/portfolio/gtpe/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/gtpe/</guid>
+      <guid>https://acreese.github.io/portfolio/gtpe/</guid>
       <description>&lt;p&gt;Data management and dashboard creation for Georgia Tech&amp;rsquo;s Professional Education Portfolio Development.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Python | Tableau&lt;/p&gt;
@@ -31,10 +31,10 @@
     
     <item>
       <title>Fake News Detection with Deep Learning</title>
-      <link>https://example.org/portfolio/fake_news/</link>
+      <link>https://acreese.github.io/portfolio/fake_news/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/fake_news/</guid>
+      <guid>https://acreese.github.io/portfolio/fake_news/</guid>
       <description>&lt;p&gt;Data management and dashboard creation for Georgia Tech&amp;rsquo;s Professional Education Portfolio Development.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Python | Machine Learning | Neural Networks&lt;/p&gt;
@@ -43,20 +43,20 @@
     
     <item>
       <title>San Marcos Public Library Dashboards</title>
-      <link>https://example.org/portfolio/smpl/</link>
+      <link>https://acreese.github.io/portfolio/smpl/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/smpl/</guid>
+      <guid>https://acreese.github.io/portfolio/smpl/</guid>
       <description>&lt;p&gt;Collection, circulation, and patron analysis for internal library use.&lt;/p&gt;
 &lt;p&gt;Tableau&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Machine Learning Author Community Detection</title>
-      <link>https://example.org/portfolio/community_detection/</link>
+      <link>https://acreese.github.io/portfolio/community_detection/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/community_detection/</guid>
+      <guid>https://acreese.github.io/portfolio/community_detection/</guid>
       <description>&lt;p&gt;Machine Learning community detection of scientific authors of COVID-19 Research.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Machine Learning | Python | GraphSAGE | Infomap&lt;/p&gt;
@@ -65,10 +65,10 @@
     
     <item>
       <title>Sample Dashboard</title>
-      <link>https://example.org/portfolio/sample_viz_1/</link>
+      <link>https://acreese.github.io/portfolio/sample_viz_1/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/sample_viz_1/</guid>
+      <guid>https://acreese.github.io/portfolio/sample_viz_1/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Tableau&lt;/p&gt;
 &lt;/blockquote&gt;</description>
@@ -76,10 +76,10 @@
     
     <item>
       <title>Sample Dashboard</title>
-      <link>https://example.org/portfolio/sample_viz_2/</link>
+      <link>https://acreese.github.io/portfolio/sample_viz_2/</link>
       <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/sample_viz_2/</guid>
+      <guid>https://acreese.github.io/portfolio/sample_viz_2/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Tableau&lt;/p&gt;
 &lt;/blockquote&gt;</description>
@@ -87,28 +87,28 @@
     
     <item>
       <title>SAA Website Redesign</title>
-      <link>https://example.org/portfolio/saa_site/</link>
+      <link>https://acreese.github.io/portfolio/saa_site/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/saa_site/</guid>
+      <guid>https://acreese.github.io/portfolio/saa_site/</guid>
       <description>&lt;p&gt;HTML | CSS | JavaScript&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Icon Design for iSchool Website</title>
-      <link>https://example.org/portfolio/icons/</link>
+      <link>https://acreese.github.io/portfolio/icons/</link>
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/icons/</guid>
+      <guid>https://acreese.github.io/portfolio/icons/</guid>
       <description>&lt;p&gt;Illustrator&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Past Work</title>
-      <link>https://example.org/portfolio/old_portfolio/</link>
+      <link>https://acreese.github.io/portfolio/old_portfolio/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/old_portfolio/</guid>
+      <guid>https://acreese.github.io/portfolio/old_portfolio/</guid>
       <description>&lt;p&gt;Data visualization, graphic design, landscape design, and urban planning work from 2010-2020&lt;/p&gt;
 &lt;p&gt;Photoshop | Illustrator | InDesign | Rhino&lt;/p&gt;</description>
     </item>
