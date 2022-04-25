@@ -325,7 +325,8 @@ SIDEBAR + RIGHT COLUMN
 }
 @media screen and (min-width: 992px) {
   .sidebar-content {
-    padding-left: 0px;
+    /* padding-left: 0px; */
+    padding-left: 18px;
     padding-right: 18px;
   }
 }
@@ -383,6 +384,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .content-column {
   padding-top: 40px;
+  paddint-left: 30px;
 }
 .content-column.white-background {
   background: #fff;

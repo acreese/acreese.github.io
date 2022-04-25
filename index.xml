@@ -39,7 +39,7 @@
       <guid>https://acreese.github.io/portfolio/fake_news/</guid>
       <description>&lt;p&gt;Data management and dashboard creation for Georgia Tech&amp;rsquo;s Professional Education Portfolio Development.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Python | Machine Learning | Neural Networks&lt;/p&gt;
+&lt;p&gt;Python | Machine Learning | Neural Networks | LSTM | Word2Vec&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
@@ -56,12 +56,12 @@
     </item>
     
     <item>
-      <title>Machine Learning Author Community Detection</title>
+      <title>Authorship Community Detection with Machine Learning</title>
       <link>https://acreese.github.io/portfolio/community_detection/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
       <guid>https://acreese.github.io/portfolio/community_detection/</guid>
-      <description>&lt;p&gt;Machine Learning community detection of scientific authors of COVID-19 Research.&lt;/p&gt;
+      <description>&lt;p&gt;Comparison of algorithmic clustering and community detection among of scientific authors of COVID-19 Research.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Machine Learning | Python | GraphSAGE | Infomap&lt;/p&gt;
 &lt;/blockquote&gt;</description>
@@ -90,6 +90,18 @@
     </item>
     
     <item>
+      <title>Past Work</title>
+      <link>https://acreese.github.io/portfolio/old_portfolio/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/old_portfolio/</guid>
+      <description>&lt;p&gt;Data visualization, graphic design, landscape design, and urban planning work from 2010-2020&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Photoshop | Illustrator | InDesign | Rhino&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
       <title>SAA Website Redesign</title>
       <link>https://acreese.github.io/portfolio/saa_site/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
@@ -112,14 +124,13 @@
     </item>
     
     <item>
-      <title>Past Work</title>
-      <link>https://acreese.github.io/portfolio/old_portfolio/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <title>iGive Infographic</title>
+      <link>https://acreese.github.io/portfolio/igive/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
       
-      <guid>https://acreese.github.io/portfolio/old_portfolio/</guid>
-      <description>&lt;p&gt;Data visualization, graphic design, landscape design, and urban planning work from 2010-2020&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Photoshop | Illustrator | InDesign | Rhino&lt;/p&gt;
+      <guid>https://acreese.github.io/portfolio/igive/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Illustrator | Graphic Design&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     

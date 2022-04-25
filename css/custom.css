@@ -1,3 +1,17 @@
 /* your styles go here */
 
 img[alt='This is me'] { width: 300px; }
+
+#sidebar {
+    padding-left: 30px;
+  }
+
+@media screen and (min-width: 992px) {
+.sidebar-content {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+}
+.content-column {
+  padding-right: 40px;
+}
