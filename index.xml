@@ -14,7 +14,9 @@
       
       <guid>https://acreese.github.io/portfolio/memes/</guid>
       <description>&lt;p&gt;Data wrangling of meme text, images, and 82 language sentiment lexicons into a relational database for language and sentiment analysis.&lt;/p&gt;
-&lt;p&gt;Python | SQL | Tableau&lt;/p&gt;</description>
+&lt;blockquote&gt;
+&lt;p&gt;Python | SQL | Tableau&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
@@ -48,7 +50,9 @@
       
       <guid>https://acreese.github.io/portfolio/smpl/</guid>
       <description>&lt;p&gt;Collection, circulation, and patron analysis for internal library use.&lt;/p&gt;
-&lt;p&gt;Tableau&lt;/p&gt;</description>
+&lt;blockquote&gt;
+&lt;p&gt;Tableau&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
@@ -91,7 +95,9 @@
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
       
       <guid>https://acreese.github.io/portfolio/saa_site/</guid>
-      <description>&lt;p&gt;HTML | CSS | JavaScript&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;HTML | CSS | JavaScript&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
@@ -100,7 +106,9 @@
       <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
       
       <guid>https://acreese.github.io/portfolio/icons/</guid>
-      <description>&lt;p&gt;Illustrator&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Graphic Design | Illustrator&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
@@ -110,7 +118,9 @@
       
       <guid>https://acreese.github.io/portfolio/old_portfolio/</guid>
       <description>&lt;p&gt;Data visualization, graphic design, landscape design, and urban planning work from 2010-2020&lt;/p&gt;
-&lt;p&gt;Photoshop | Illustrator | InDesign | Rhino&lt;/p&gt;</description>
+&lt;blockquote&gt;
+&lt;p&gt;Photoshop | Illustrator | InDesign | Rhino&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
   </channel>
