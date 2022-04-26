@@ -2,10 +2,12 @@
 
 img[alt='This is me'] { width: 300px; }
 
+/*
 body {
   font-family: "Inter";
   font-size: 14px;
 }
+*/
 
 p {
   margin-bottom: 16px;
