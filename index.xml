@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alexander Reese</title>
+    <title>Alexander Reese | Data &lt;3</title>
     <link>https://acreese.github.io/</link>
-    <description>Recent content on Alexander Reese</description>
+    <description>Recent content on Alexander Reese | Data &lt;3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://acreese.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -130,17 +130,6 @@
       <guid>https://acreese.github.io/portfolio/saa_site/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;HTML | CSS | JavaScript&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-    </item>
-    
-    <item>
-      <title>Icon Design for iSchool Website</title>
-      <link>https://acreese.github.io/portfolio/icons/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
-      
-      <guid>https://acreese.github.io/portfolio/icons/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Graphic Design | Illustrator&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
