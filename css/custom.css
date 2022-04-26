@@ -64,10 +64,6 @@ p {
   font-size: 15px;
 }
 
-#sidebar {
-    padding-left: 22px;
-}
-
 .sidebar-p {
   font-weight: 300;
   color: rgb(122, 122, 122);
@@ -78,15 +74,23 @@ p {
   letter-spacing: 0.05em;
 }
 
+#sidebar {
+  padding-left: 15px;
+}
+
 @media screen and (min-width: 992px) {
 .sidebar-content {
     padding-left: 18px;
     padding-right: 18px;
 }
+#sidebar {
+  padding-left: 22px;
 }
 .content-column {
   padding-right: 40px;
 }
+}
+
 
 h1 {
   font-family: "Inter", sans-serif;
