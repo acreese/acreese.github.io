@@ -1,6 +1,10 @@
 /* your styles go here */
 
-img[alt='This is me'] { width: 300px; }
+img[alt='This is me'] { 
+  width: 300px;
+  margin-top: 24px; 
+  margin-bottom: 24px; 
+}
 
 /*
 body {
@@ -9,12 +13,51 @@ body {
 }
 */
 
-p {
-  margin-bottom: 16px;
+.Tags span {
+  font-size: 12px;
+  font-family: "Inter";
+  font-weight: 400;
+  padding: 0px 8px;
+  display: inline-block;
+  margin-right: 1px;
+  margin-top: 5px;
+  border: 0px;
+  line-height: 2em;
+  color: #928b8b;
+  /* background-color: #F6F6F6; */
+  background-color: #ffdbdb;
+  border-radius: 12px;
 }
 
-blockquote {
+
+
+.Tags + .content-column-content p:first-of-type, .content-column-content li:first-of-type, h4:first-of-type {
+  margin-top: 24px;
+}
+
+.Tags ~ .content-column-content p, .content-column-content li {
+  margin-bottom: 24px;
+}
+
+blockquote p {
+  font-family: "Inter";
   font-weight: 300;
+}
+
+p {
+  font-family: "Inter";
+  font-weight: 400;
+}
+
+.content-column-content p, .content-column-content li {
+  margin-bottom: 12px;
+  font-size: 15px;
+}
+
+.box-masonry .box-masonry-text p {
+  color: #999999;
+  font-size: 14px;
+  margin-bottom: 16px;
 }
 
 #sidebar {
@@ -58,6 +101,10 @@ h3 {
 h4 {
   font-family: "Inter", sans-serif;
   font-weight: 700;
+}
+
+p + h4 {
+  margin-top: 20px;
 }
 
 h5 {
