@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Georgia Tech Executive Dashboards</title>
+      <title>Georgia Tech Professional Education Executive Dashboards</title>
       <link>https://acreese.github.io/portfolio/gtpe/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
@@ -75,6 +75,18 @@
       <guid>https://acreese.github.io/portfolio/sample_viz_1/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Tableau&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Python Text Processing Data Analysis</title>
+      <link>https://acreese.github.io/portfolio/python_plants/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/python_plants/</guid>
+      <description>&lt;p&gt;Original text processing data analysis program in Python comparing native plants of the United States 🌳&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Python&lt;/p&gt;
 &lt;/blockquote&gt;</description>
     </item>
     
