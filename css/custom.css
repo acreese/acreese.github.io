@@ -2,6 +2,18 @@
 
 img[alt='This is me'] { width: 300px; }
 
+body {
+  font-family: "Inter";
+}
+
+p {
+  margin-bottom: 16px;
+}
+
+blockquote {
+  font-weight: 300;
+}
+
 #sidebar {
     padding-left: 22px;
   }
@@ -14,4 +26,95 @@ img[alt='This is me'] { width: 300px; }
 }
 .content-column {
   padding-right: 40px;
+}
+
+h1 {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+
+h3 {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+
+h4 {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+
+h5 {
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+
+.role, .major {
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  margin: 4px 0px;
+  color: black;
+}
+
+.date {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  color: #6B7280;
+  margin: 4px 0px;
+}
+
+/* Fonts */
+
+/* inter-300 - latin */
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  src: url("/fonts/inter-v3-latin-300.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("/fonts/inter-v3-latin-300.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("/fonts/inter-v3-latin-300.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("/fonts/inter-v3-latin-300.woff")
+      format("woff"),
+    /* Modern Browsers */ url("/fonts/inter-v3-latin-300.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("/fonts/inter-v3-latin-300.svg#Inter")
+      format("svg"); /* Legacy iOS */
+}
+/* inter-500 - latin */
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/fonts/inter-v3-latin-500.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("/fonts/inter-v3-latin-500.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("/fonts/inter-v3-latin-500.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("/fonts/inter-v3-latin-500.woff")
+      format("woff"),
+    /* Modern Browsers */ url("/fonts/inter-v3-latin-500.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("/fonts/inter-v3-latin-500.svg#Inter")
+      format("svg"); /* Legacy iOS */
+}
+/* inter-700 - latin */
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/inter-v3-latin-700.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("/fonts/inter-v3-latin-700.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("/fonts/inter-v3-latin-700.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("/fonts/inter-v3-latin-700.woff")
+      format("woff"),
+    /* Modern Browsers */ url("/fonts/inter-v3-latin-700.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("/fonts/inter-v3-latin-700.svg#Inter")
+      format("svg"); /* Legacy iOS */
 }
