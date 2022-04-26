@@ -16,7 +16,16 @@ blockquote {
 
 #sidebar {
     padding-left: 22px;
-  }
+}
+
+.sidebar-p {
+  font-weight: 300;
+  color: rgb(122, 122, 122);
+}
+
+.box-masonry h4 {
+  letter-spacing: 0.05em;
+}
 
 @media screen and (min-width: 992px) {
 .sidebar-content {
