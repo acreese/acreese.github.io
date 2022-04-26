@@ -3,7 +3,7 @@
 img[alt='This is me'] { width: 300px; }
 
 #sidebar {
-    padding-left: 30px;
+    padding-left: 25px;
   }
 
 @media screen and (min-width: 992px) {
