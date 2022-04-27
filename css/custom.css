@@ -34,14 +34,13 @@ center {
   display: inline-block;
   height: 60px;
   vertical-align: inherit;
+  margin-right: 10px;
 }
 
 .jobtext {
   display: inline-block;
-  margin-left: 10px;
   vertical-align: inherit;
-}
-
+} 
 
 body {
   font-size: 14px;
