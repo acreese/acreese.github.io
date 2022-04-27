@@ -6,6 +6,42 @@ img[alt='This is me'] {
   margin-bottom: 24px; 
 }
 
+.sidebar-circle {
+  border-radius: 9999px;
+  --tw-bg-opacity: 1;
+  background-color: rgba(254, 219, 219, var(--tw-bg-opacity));
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  margin-top: 30px; 
+  margin-bottom: 18px;
+}
+.sidebar-photo {
+  padding: 8px; 
+}
+
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.job {
+  vertical-align: middle;
+}
+.job img {
+  display: inline-block;
+  height: 60px;
+  vertical-align: inherit;
+}
+
+.jobtext {
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: inherit;
+}
+
 
 body {
   font-size: 14px;
@@ -89,7 +125,12 @@ div + p {
 
 .sidebar-heading a {
   letter-spacing: 0.1em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
+
 
 .box-masonry h4 {
   letter-spacing: 0.05em;
