@@ -82,7 +82,7 @@ div + p {
 }
 
 .sidebar-heading a {
-  letter-spacing: 0.05em;
+  letter-spacing: 0.1em;
 }
 
 .box-masonry h4 {
@@ -162,6 +162,7 @@ h5 {
   font-size: 12px;
   font-weight: 300;
 }
+
 /* Fonts */
 
 /* inter-300 - latin */
