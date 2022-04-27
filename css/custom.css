@@ -6,12 +6,10 @@ img[alt='This is me'] {
   margin-bottom: 24px; 
 }
 
-/*
+
 body {
-  font-family: "Inter";
   font-size: 14px;
 }
-*/
 
 .Tags span {
   font-size: 10px;
@@ -139,15 +137,16 @@ p + h4 {
 }
 
 h5 {
-  font-size: 18px;
+  font-size: 16px;
   font-family: "Inter", sans-serif;
   font-weight: 700;
+  margin-bottom: 3x;
+  margin-bottom: 4px;
 }
 
 .role, .major {
   font-family: "Inter", sans-serif;
   font-weight: 300;
-  margin: 4px 0px;
   color: black;
 }
 
@@ -155,7 +154,7 @@ h5 {
   font-family: "Inter", sans-serif;
   font-weight: 500;
   color: #6B7280;
-  margin: 4px 0px;
+  margin: 2px 0px;
 }
 
 .credit {
