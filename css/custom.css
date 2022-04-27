@@ -11,7 +11,7 @@ body {
   font-size: 14px;
 }
 
-.Tags span {
+.Tags span, .Tags li {
   font-size: 10px;
   font-family: "Inter";
   font-weight: 400;
@@ -27,6 +27,12 @@ body {
   border-radius: 12px;
 }
 
+.Tags ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 24px;
+  margin-right: 50px;
+}
 
 
 .Tags + .content-column-content p:first-of-type, .content-column-content li:first-of-type {

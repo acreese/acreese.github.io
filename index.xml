@@ -15,9 +15,10 @@
       <guid>https://acreese.github.io/portfolio/memes/</guid>
       <description>&lt;p&gt;Data wrangling using Python and SQL meme text, images, and 82 language sentiment lexicons into a relational database for language and sentiment analysis. Visualization with Tableau.&lt;/p&gt;
 &lt;div class=Tags&gt;
-&lt;span&gt;Python&lt;/span&gt;
-&lt;span&gt;SQL&lt;/span&gt;
-&lt;span&gt;Tableau&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/sql/&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;</description>
     </item>
     
@@ -29,8 +30,24 @@
       <guid>https://acreese.github.io/portfolio/gtpe/</guid>
       <description>&lt;p&gt;Data diagraming, data wrangling, and dashboard creation for Georgia Tech&amp;rsquo;s Professional Education Portfolio Development.&lt;/p&gt;
 &lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fake News Detection with Deep Learning</title>
+      <link>https://acreese.github.io/components/fake_news_2/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/components/fake_news_2/</guid>
+      <description>&lt;p&gt;Creation of a statement validator comparing multiple models and embedding strategies on diverse fake news datasets.&lt;/p&gt;
+&lt;div class=Tags&gt;
 &lt;span&gt;Python&lt;/span&gt;
-&lt;span&gt;Tableau&lt;/span&gt;
+&lt;span&gt;Neural Networks&lt;/span&gt;
+&lt;span&gt;LSTM&lt;/span&gt;
+&lt;span&gt;Word2Vec&lt;/span&gt;
 &lt;/div&gt;</description>
     </item>
     
@@ -42,7 +59,8 @@
       <guid>https://acreese.github.io/portfolio/fake_news/</guid>
       <description>&lt;p&gt;Creation of a statement validator comparing multiple models and embedding strategies on diverse fake news datasets.&lt;/p&gt;
 &lt;div class=Tags&gt;
-&lt;span&gt;Python&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/machine-learning/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/span&gt;
 &lt;span&gt;Neural Networks&lt;/span&gt;
 &lt;span&gt;LSTM&lt;/span&gt;
 &lt;span&gt;Word2Vec&lt;/span&gt;
@@ -57,7 +75,8 @@
       <guid>https://acreese.github.io/portfolio/smpl/</guid>
       <description>&lt;p&gt;Collection, circulation, and patron analysis for internal library use.&lt;/p&gt;
 &lt;div class=Tags&gt;
-&lt;span&gt;Tableau&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
 &lt;span&gt;Excel&lt;/span&gt;
 &lt;/div&gt;</description>
     </item>
@@ -70,8 +89,9 @@
       <guid>https://acreese.github.io/portfolio/community_detection/</guid>
       <description>&lt;p&gt;Creation of netowrk graph &amp;amp; comparison of algorithmic clustering and community detection among of scientific authors of COVID-19 Research.&lt;/p&gt;
 &lt;div class=Tags&gt;
-&lt;span&gt;Python&lt;/span&gt;
-&lt;span&gt;Machine Learning&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/machine-learning/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
 &lt;span&gt;GraphSAGE&lt;/span&gt;
 &lt;span&gt;Infomap&lt;/span&gt;
 &lt;span&gt;t-SNE&lt;/span&gt;
@@ -84,7 +104,11 @@
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>https://acreese.github.io/portfolio/data_diary/</guid>
-      <description>&lt;p&gt;A little data diary just for fun.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A little data diary just for fun.&lt;/p&gt;
+&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>
@@ -94,7 +118,8 @@
       
       <guid>https://acreese.github.io/portfolio/sample_viz_1/</guid>
       <description>&lt;div class=Tags&gt;
-&lt;span&gt;Tableau&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;</description>
     </item>
     
@@ -106,7 +131,7 @@
       <guid>https://acreese.github.io/portfolio/python_plants/</guid>
       <description>&lt;p&gt;Original text processing data analysis program in Python comparing native plants of the United States 🌳&lt;/p&gt;
 &lt;div class=Tags&gt;
-&lt;span&gt;Python&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;</description>
     </item>
     
@@ -117,7 +142,8 @@
       
       <guid>https://acreese.github.io/portfolio/sample_viz_2/</guid>
       <description>&lt;div class=Tags&gt;
-&lt;span&gt;Tableau&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;</description>
     </item>
     
@@ -129,8 +155,10 @@
       <guid>https://acreese.github.io/portfolio/old_portfolio/</guid>
       <description>&lt;p&gt;Data visualization, graphic design, landscape design, and urban planning work from 2010-2020&lt;/p&gt;
 &lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/graphic-design/&#34;&gt;Graphic Design&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;
 &lt;span&gt;Photoshop&lt;/span&gt;
-&lt;span&gt;Illustrator&lt;/span&gt;
 &lt;span&gt;InDesign&lt;/span&gt;
 &lt;span&gt;Rhino 3D&lt;/span&gt;
 &lt;!-- &lt;span&gt;Grasshopper&lt;/span&gt;
@@ -145,9 +173,10 @@
       
       <guid>https://acreese.github.io/portfolio/saa_site/</guid>
       <description>&lt;div class=Tags&gt;
-&lt;span&gt;HTML&lt;/span&gt;
-&lt;span&gt;CSS&lt;/span&gt;
-&lt;span&gt;Javascript&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/web-design/&#34;&gt;Web Design&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/html/&#34;&gt;HTML&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/css/&#34;&gt;CSS&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;JavaScript&lt;/span&gt;
 &lt;/div&gt;</description>
     </item>
     
@@ -158,7 +187,8 @@
       
       <guid>https://acreese.github.io/portfolio/igive/</guid>
       <description>&lt;div class=Tags&gt;
-&lt;span&gt;Illustrator&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/graphic-design/&#34;&gt;Graphic Design&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;</description>
     </item>
     

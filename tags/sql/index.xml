@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Alex 👾 does 🏗️ Data 🎛️</title>
+    <link>https://acreese.github.io/tags/sql/</link>
+    <description>Recent content in SQL on Alex 👾 does 🏗️ Data 🎛️</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:53:42 +0530</lastBuildDate><atom:link href="https://acreese.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meme Generator Language and Sentiment Analysis</title>
+      <link>https://acreese.github.io/portfolio/memes/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/memes/</guid>
+      <description>&lt;p&gt;Data wrangling using Python and SQL meme text, images, and 82 language sentiment lexicons into a relational database for language and sentiment analysis. Visualization with Tableau.&lt;/p&gt;
+&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/sql/&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

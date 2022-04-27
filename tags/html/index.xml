@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML on Alex 👾 does 🏗️ Data 🎛️</title>
+    <link>https://acreese.github.io/tags/html/</link>
+    <description>Recent content in HTML on Alex 👾 does 🏗️ Data 🎛️</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:59:22 +0530</lastBuildDate><atom:link href="https://acreese.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAA Website Redesign</title>
+      <link>https://acreese.github.io/portfolio/saa_site/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/saa_site/</guid>
+      <description>&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/web-design/&#34;&gt;Web Design&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/html/&#34;&gt;HTML&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/css/&#34;&gt;CSS&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;JavaScript&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
