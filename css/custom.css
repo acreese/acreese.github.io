@@ -100,6 +100,31 @@ h4 + p.social {
   margin-top: 30px;  
 }
 
+/* inside their circles */
+.fa-linkedin:before {
+  position: relative;
+  bottom: .1em;
+  left: 1px; 
+  font-size: 1.05em;
+}
+
+.fa-envelope:before {
+  position: relative;
+  bottom: .075em;
+}
+
+.fa-instagram:before {
+  position: relative;
+  bottom: .07em;
+  font-size: 1.05em;
+}
+
+.fa-github:before {
+  position: relative;
+  bottom: .02em;
+  font-size: 1.2em;
+}
+
 /* MAIN PAGE edge spacing ------------------ */
 
 #sidebar {
