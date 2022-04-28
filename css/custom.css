@@ -6,6 +6,8 @@ img[alt='This is me'] {
   margin-bottom: 24px; 
 }
 
+/* sidebar ------------------ */
+
 .sidebar-circle {
   border-radius: 9999px;
   --tw-bg-opacity: 1;
@@ -27,6 +29,47 @@ center {
   margin-right: auto;
 }
 
+.sidebar-p {
+  font-weight: 300;
+  color: rgb(122, 122, 122);
+  font-size: 13px;
+}
+
+.sidebar-heading a {
+  letter-spacing: 0.1em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+/* MAIN PAGE edge spacing ------------------ */
+
+#sidebar {
+  padding-left: 15px;
+}
+
+.sidebar-content {
+  padding-left: 15px;
+  padding-right: 0px;
+}
+
+@media screen and (min-width: 992px) {
+  .sidebar-content {
+      padding-left: 18px;
+      padding-right: 8px;
+  }
+  #sidebar {
+    padding-left: 22px;
+  }
+  .content-column {
+    padding-right: 40px;
+  }
+}
+
+
+/* CONTENT pages ----------------------- */
+
 .job {
   vertical-align: middle;
 }
@@ -43,10 +86,15 @@ center {
   vertical-align: inherit;
 } 
 
-body {
-  font-size: 14px;
+.content-column-content p, .content-column-content li {
+  margin-bottom: 12px;
 }
 
+
+
+/* TAGS ---------------------------------- */
+
+/* in masonry boxes---- */
 .Tags span, .Tags li {
   font-size: 10px;
   font-family: "Inter";
@@ -63,6 +111,7 @@ body {
   border-radius: 12px;
 }
 
+/* in sidebar--------- */
 .Tags ul {
   list-style: none;
   padding: 0;
@@ -70,7 +119,7 @@ body {
   margin-right: 50px;
 }
 
-
+/* conent below TAgs in conent pages */
 .Tags + .content-column-content p:first-of-type, .content-column-content li:first-of-type {
   margin-top: 24px;
 }
@@ -79,24 +128,12 @@ body {
   margin-bottom: 24px;
 }
 
-blockquote p {
-  font-family: "Inter";
-  font-weight: 300;
-}
+/* BOXES in portfolio main page ------- */
 
-p {
-  font-family: "Inter";
-  font-weight: 400;
-  font-size: 14px;
-}
 
-div + p {
-  margin-top: 30px;
-}
-
-.content-column-content p, .content-column-content li {
-  margin-bottom: 12px;
-}
+.box-masonry {
+  border-radius: 0px 0px 12px 12px; 
+} 
 
 .box-masonry .box-masonry-text p {
   color: #999999;
@@ -117,47 +154,31 @@ div + p {
   padding-bottom: 0px;
 }
 
-.sidebar-p {
-  font-weight: 300;
-  color: rgb(122, 122, 122);
-  font-size: 13px;
-}
-
-.sidebar-heading a {
-  letter-spacing: 0.1em;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-}
-
-
 .box-masonry h4 {
   letter-spacing: 0.05em;
 }
 
-#sidebar {
-  padding-left: 15px;
+/* THE BASICS - BUILDING BLOCKS ------- */
+
+body {
+  font-size: 14px;
 }
 
-.sidebar-content {
-  padding-left: 15px;
-  padding-right: 0px;
+p {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 14px;
 }
 
-@media screen and (min-width: 992px) {
-.sidebar-content {
-    padding-left: 18px;
-    padding-right: 8px;
-}
-#sidebar {
-  padding-left: 22px;
-}
-.content-column {
-  padding-right: 40px;
-}
+div + p {
+  margin-top: 30px;
 }
 
+
+blockquote p {
+  font-family: "Inter";
+  font-weight: 300;
+}
 
 h1 {
   font-family: "Inter", sans-serif;
