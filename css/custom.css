@@ -8,7 +8,8 @@ img[alt='This is me'] {
 
 /* sidebar ------------------ */
 
-.sidebar-circle {
+/* photo outline */
+.sidebar-circle { 
   border-radius: 9999px;
   --tw-bg-opacity: 1;
   background-color: rgba(254, 219, 219, var(--tw-bg-opacity));
@@ -19,14 +20,55 @@ img[alt='This is me'] {
   margin-top: 30px; 
   margin-bottom: 18px;
 }
+
 .sidebar-photo {
   padding: 8px; 
 }
 
-center {
+/* center {
   display: block;
   margin-left: auto;
   margin-right: auto;
+} */
+
+/* sidebar nav menu links (portfolio, about, contact) ------*/
+
+.sidebar-menu {
+  margin-bottom: 30px;
+}
+
+.sidebar-menu li:before {
+  content: none; /* erases bullet arrow */
+}
+
+ul.sidebar-menu {
+  padding-left: 0px;
+  display: inline-block;
+}
+
+ul.sidebar-menu li {
+  padding-right: 4px;
+  display: inline-block;
+}
+
+.sidebar-menu li a {
+  padding: 1px 12px 0px 12px;
+  display: inline-block;
+  margin-right: 1px;
+  margin-top: 5px;
+  border: 0px;
+  line-height: 2em;
+  color: #545454;
+  /* background-color: #F6F6F6; */
+  background-color: #dddddd;
+  border-radius: 9999px;
+  letter-spacing: .03em;
+}
+
+.sidebar-menu li.active a {
+  background-color: #ff7473;
+  color: #ffffff;
+  font-weight: 700;
 }
 
 .sidebar-p {
@@ -41,6 +83,11 @@ center {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+}
+
+/* social icons in sidebar */
+p.social {
+  margin-top: 0px;
 }
 
 /* MAIN PAGE edge spacing ------------------ */
