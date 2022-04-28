@@ -6,7 +6,7 @@ img[alt='This is me'] {
   margin-bottom: 24px; 
 }
 
-/* sidebar ------------------ */
+/* SIDEBAR ------------------ */
 
 /* photo outline */
 .sidebar-circle { 
@@ -56,13 +56,19 @@ ul.sidebar-menu li {
   display: inline-block;
   margin-right: 1px;
   margin-top: 5px;
-  border: 0px;
+
   line-height: 2em;
-  color: #545454;
-  /* background-color: #F6F6F6; */
-  background-color: #dddddd;
-  border-radius: 9999px;
   letter-spacing: .03em;
+
+  color: #878787;
+  /* background-color: #F6F6F6; */
+  background-color: #ffffff;
+
+  border-width: 1px;
+  border-color: #ff7473;
+  border-radius: 20px;
+
+  font-weight: 700;
 }
 
 .sidebar-menu li.active a {
@@ -141,7 +147,7 @@ p.social {
 
 /* TAGS ---------------------------------- */
 
-/* in masonry boxes---- */
+/* Tags inside masonry boxes---- */
 .Tags span, .Tags li {
   font-size: 10px;
   font-family: "Inter";
@@ -158,7 +164,7 @@ p.social {
   border-radius: 12px;
 }
 
-/* in sidebar--------- */
+/* tags in sidebar--------- */
 .Tags ul {
   list-style: none;
   padding: 0;
@@ -166,7 +172,7 @@ p.social {
   margin-right: 50px;
 }
 
-/* conent below TAgs in conent pages */
+/* conent below Tags in content pages */
 .Tags + .content-column-content p:first-of-type, .content-column-content li:first-of-type {
   margin-top: 24px;
 }
