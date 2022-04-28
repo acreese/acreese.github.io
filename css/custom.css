@@ -93,7 +93,11 @@ ul.sidebar-menu li {
 
 /* social icons in sidebar */
 p.social {
-  margin-top: 0px;
+  margin-top: 0px;  
+}
+
+h4 + p.social {
+  margin-top: 30px;  
 }
 
 /* MAIN PAGE edge spacing ------------------ */
@@ -266,7 +270,16 @@ h5 {
   margin-bottom: 4px;
 }
 
-.role, .major {
+.btn {
+  font-family: "Inter", Helvetica, Arial, sans-serif;
+  padding: 4px 12px;
+  font-size: 16px;
+  line-height: 1.55;
+  border-radius: 99px;
+}
+
+/* CUSTOM CLASSES ------- */
+.role, .major, .thin {
   font-family: "Inter", sans-serif;
   font-weight: 300;
   color: black;
@@ -303,6 +316,7 @@ h5 {
     /* Safari, Android, iOS */ url("/fonts/inter-v3-latin-300.svg#Inter")
       format("svg"); /* Legacy iOS */
 }
+
 /* inter-500 - latin */
 @font-face {
   font-family: "Inter";
@@ -319,6 +333,7 @@ h5 {
     /* Safari, Android, iOS */ url("/fonts/inter-v3-latin-500.svg#Inter")
       format("svg"); /* Legacy iOS */
 }
+
 /* inter-700 - latin */
 @font-face {
   font-family: "Inter";
