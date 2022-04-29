@@ -72,7 +72,7 @@ ul.sidebar-menu li {
 }
 
 .sidebar-menu li.active a {
-  background-color: # ;
+  background-color: #ff7473;
   color: #ffffff;
   font-weight: 700;
 }
