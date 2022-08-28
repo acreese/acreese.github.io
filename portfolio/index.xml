@@ -55,6 +55,23 @@
     </item>
     
     <item>
+      <title>COVID Authorship Community Detection with Machine Learning</title>
+      <link>https://acreese.github.io/portfolio/community_detection/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/community_detection/</guid>
+      <description>&lt;p&gt;Creation of netowrk graph &amp;amp; comparison of algorithmic clustering and community detection among of scientific authors of COVID-19 Research.&lt;/p&gt;
+&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/machine-learning/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;GraphSAGE&lt;/span&gt;
+&lt;span&gt;Infomap&lt;/span&gt;
+&lt;span&gt;t-SNE&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
       <title>San Marcos Public Library Dashboards</title>
       <link>https://acreese.github.io/portfolio/smpl/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
@@ -82,23 +99,6 @@
 &lt;span&gt;Neural Networks&lt;/span&gt;
 &lt;span&gt;LSTM&lt;/span&gt;
 &lt;span&gt;Word2Vec&lt;/span&gt;
-&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>COVID Authorship Community Detection with Machine Learning</title>
-      <link>https://acreese.github.io/portfolio/community_detection/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>https://acreese.github.io/portfolio/community_detection/</guid>
-      <description>&lt;p&gt;Creation of netowrk graph &amp;amp; comparison of algorithmic clustering and community detection among of scientific authors of COVID-19 Research.&lt;/p&gt;
-&lt;div class=Tags&gt;
-&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;
-&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/machine-learning/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/span&gt;
-&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
-&lt;span&gt;GraphSAGE&lt;/span&gt;
-&lt;span&gt;Infomap&lt;/span&gt;
-&lt;span&gt;t-SNE&lt;/span&gt;
 &lt;/div&gt;</description>
     </item>
     
