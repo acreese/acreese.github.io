@@ -6,7 +6,7 @@
     <description>Recent content in SQL on Alex Reese | Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:53:42 +0530</lastBuildDate><atom:link href="https://acreese.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Aug 2022 19:53:42 +0530</lastBuildDate><atom:link href="https://acreese.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated Monkeypox Case Dashboard</title>
       <link>https://acreese.github.io/portfolio/mpox/</link>
@@ -26,7 +26,7 @@
     <item>
       <title>Meme Generator Natural Language Processing and Sentiment Analysis</title>
       <link>https://acreese.github.io/portfolio/memes/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <pubDate>Mon, 29 Aug 2022 19:53:42 +0530</pubDate>
       
       <guid>https://acreese.github.io/portfolio/memes/</guid>
       <description>&lt;p&gt;Data wrangling using Python and SQL meme text, images, and 82 language sentiment lexicons into a realational MySQL database for language and sentiment analysis. Visualization with Tableau.&lt;/p&gt;
