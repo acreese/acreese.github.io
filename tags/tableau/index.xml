@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:57:40 +0530</lastBuildDate><atom:link href="https://acreese.github.io/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Live Monkeypox Case Dashboard</title>
+      <title>Automated Monkeypox Case Dashboard</title>
       <link>https://acreese.github.io/portfolio/mpox/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
@@ -50,6 +50,7 @@
 &lt;div class=Tags&gt;
 &lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;
 &lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;
 &lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;</description>
     </item>
