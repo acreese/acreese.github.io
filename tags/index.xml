@@ -6,11 +6,11 @@
     <description>Recent content in Tags on Alex Reese | Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Aug 2022 19:53:42 +0530</lastBuildDate><atom:link href="https://acreese.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Nov 2022 19:41:01 +0530</lastBuildDate><atom:link href="https://acreese.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Viz</title>
       <link>https://acreese.github.io/tags/data-viz/</link>
-      <pubDate>Mon, 29 Aug 2022 19:53:42 +0530</pubDate>
+      <pubDate>Fri, 04 Nov 2022 19:41:01 +0530</pubDate>
       
       <guid>https://acreese.github.io/tags/data-viz/</guid>
       <description></description>
@@ -19,9 +19,18 @@
     <item>
       <title>ETL</title>
       <link>https://acreese.github.io/tags/etl/</link>
-      <pubDate>Mon, 29 Aug 2022 19:53:42 +0530</pubDate>
+      <pubDate>Fri, 04 Nov 2022 19:41:01 +0530</pubDate>
       
       <guid>https://acreese.github.io/tags/etl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>https://acreese.github.io/tags/tableau/</link>
+      <pubDate>Fri, 04 Nov 2022 19:41:01 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/tags/tableau/</guid>
       <description></description>
     </item>
     
@@ -49,15 +58,6 @@
       <pubDate>Mon, 29 Aug 2022 19:53:42 +0530</pubDate>
       
       <guid>https://acreese.github.io/tags/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tableau</title>
-      <link>https://acreese.github.io/tags/tableau/</link>
-      <pubDate>Mon, 29 Aug 2022 19:53:42 +0530</pubDate>
-      
-      <guid>https://acreese.github.io/tags/tableau/</guid>
       <description></description>
     </item>
     
