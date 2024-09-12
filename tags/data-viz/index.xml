@@ -6,7 +6,21 @@
     <description>Recent content in Data Viz on Alex Reese | Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Nov 2022 19:41:01 +0530</lastBuildDate><atom:link href="https://acreese.github.io/tags/data-viz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Sep 2024 19:41:01 +0530</lastBuildDate><atom:link href="https://acreese.github.io/tags/data-viz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Client Churn Dashboard</title>
+      <link>https://acreese.github.io/portfolio/client_churn/</link>
+      <pubDate>Thu, 12 Sep 2024 19:41:01 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/client_churn/</guid>
+      <description>&lt;p&gt;Sample client churn dashboard similar to that created for Dempsey Center.&lt;/p&gt;
+&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/SQL/&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
     <item>
       <title>Georgia Tech GTPE Human Resource Dashboard</title>
       <link>https://acreese.github.io/portfolio/gtpe_hr/</link>
