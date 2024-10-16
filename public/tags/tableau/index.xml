@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tableau on Alex Reese | Portfolio</title>
+    <link>https://acreese.github.io/tags/tableau/</link>
+    <description>Recent content in Tableau on Alex Reese | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Nov 2022 19:41:01 +0530</lastBuildDate><atom:link href="https://acreese.github.io/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Georgia Tech GTPE Human Resource Dashboard</title>
+      <link>https://acreese.github.io/portfolio/gtpe_hr/</link>
+      <pubDate>Fri, 04 Nov 2022 19:41:01 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/gtpe_hr/</guid>
+      <description>&lt;p&gt;Human Resource Dashboard for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Development Unit using Python API calls and complex Tableau tables.&lt;/p&gt;
+&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Georgia Tech GTPE Course Portfolio Dashboards</title>
+      <link>https://acreese.github.io/portfolio/gtpe/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/gtpe/</guid>
+      <description>&lt;p&gt;Data diagraming, data wrangling/ETL, and dashboard creation for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Portfolio Development.&lt;/p&gt;
+&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>San Marcos Library Collection &amp; User Anlaysis</title>
+      <link>https://acreese.github.io/portfolio/smpl/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/smpl/</guid>
+      <description>&lt;p&gt;Collection, circulation, and patron data analysis and visualization for internal library use.&lt;/p&gt;
+&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;Excel&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Automated Monkeypox Case Dashboard</title>
+      <link>https://acreese.github.io/portfolio/mpox/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/mpox/</guid>
+      <description>&lt;p&gt;An automated Tableau dashboard powered by an AWS Lambda ETL function (in Python) that updates an RDS PostgreSQL database daily.&lt;/p&gt;
+&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/sql&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/etl&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Meme Generator Natural Language Processing and Sentiment Analysis</title>
+      <link>https://acreese.github.io/portfolio/memes/</link>
+      <pubDate>Mon, 29 Aug 2022 19:53:42 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/memes/</guid>
+      <description>&lt;p&gt;Data wrangling using Python and SQL meme text, images, and 82 language sentiment lexicons into a realational MySQL database for language and sentiment analysis. Visualization with Tableau.&lt;/p&gt;
+&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/sql/&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/nlp/&#34;&gt;NLP&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sample Dashboard</title>
+      <link>https://acreese.github.io/portfolio/sample_viz_1/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/sample_viz_1/</guid>
+      <description>&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sample Dashboard</title>
+      <link>https://acreese.github.io/portfolio/sample_viz_2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/sample_viz_2/</guid>
+      <description>&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
