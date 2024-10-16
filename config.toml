@@ -22,7 +22,7 @@ publishDir = "docs"
   sidebarAbout = [
     "I'm Alex Reese. I'm a data analyst and data storyteller skilled in SQL, Tableau, Python, and Machine Learning techniques.",
     "M.S. in Information Science : Data Analytics from UT Austin.",
-    "Feel free to <a href ='https://alex-reese.com/contact'/>get in touch</a> about work opportunities."
+    "Feel free to <a href ='https://acreese.github.io/contact'/>get in touch</a> about work opportunities."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
