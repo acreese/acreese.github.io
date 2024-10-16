@@ -22,7 +22,7 @@ Sample client churn, retention/return, and tenure dashboards created in Power BI
 ![Churn Dashboard](/img/portfolio/churn_dash_2.png)
 
 
-![Retention Dashboard](/img/portfolio/retention_dash_2.png)
+![Retention Dashboard](/img/portfolio/return_dash_2.png)
 
 
 ![Tenure Dashboard](/img/portfolio/tenure_dash_2.png)
