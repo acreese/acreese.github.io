@@ -3,12 +3,22 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-Hi, my name is Alex, and I do data analysis, data visualization, data wrangling, and database management. I love to create meaningful, valuable insights into data and express them in compelling and accessible visualizations.
+Hi, my name is Alex, and I do data analysis, data visualization, and data engineering. I like to create meaningful, valuable insights into data and express them in compelling and accessible visualizations.
+
+<a href="/downloads/Resume_Reese,Alexander_9.24.pdf" class="btn" download>
+    📄 Download My Resume
+</a>
+<small>Last updated : Sep 2024</small>
+
+
+</br>
+</br>
+
 
 <!-- ![This is me](/img/areese_circle_photo.png) -->
 
-<p class="role">I was raised in Texas and have lived and worked in New York, California, Ontario, New Mexico, and the Netherlands. I'm now based in Austin.</p>
-<p class="role">I have professional and educational backgrounds in librarianship, design, and botany. In my free time, I enjoy gardening with native 🌱 plants, hiking, swimming, biking around town, reading, karaoke-ing, and cooking with beans 🫘 </p>
+<p class="role">I was raised in Texas but have lived and worked in New York, California, Ontario, New Mexico, and the Netherlands. I'm now based in Austin.</p>
+<p class="role">I have professional and educational backgrounds in librarianship, design, and botany. In my free time, I enjoy gardeningm hiking, swimming in Austin's natural springs, biking around town, reading, two-stepping at my local honky tonks, and contributig to <a href="https://www.inaturalist.org/observations?place_id=any&user_id=txalexander&verifiable=any">citizen science botany projects</a> 🌱 </p>
 <hr>
 
 #### Education
@@ -35,9 +45,17 @@ Hi, my name is Alex, and I do data analysis, data visualization, data wrangling,
 <div class="job">
 <!-- <img src=""></img> -->
 <div class="jobtext">
+<h5>The Dempsey Center</h5>   
+<div class=role>Business Intelligence and Reporting Analyst</div>  
+<div class=date>Dec 2022 - Present</div>
+</div></div>
+
+<div class="job">
+<!-- <img src=""></img> -->
+<div class="jobtext">
 <h5>Georgia Tech Professional Education</h5>   
 <div class=role>Data Analyst</div>  
-<div class=date>Jan 2022 - Present</div>
+<div class=date>Jan 2021 - Dec 2022</div>
 </div></div>
 
 ##### Cockrell School of Engineering, University of Texas at Austin  
@@ -65,9 +83,11 @@ Hi, my name is Alex, and I do data analysis, data visualization, data wrangling,
 </div></div>
 
 #### Skills
-<span class=role>Data Analysis  
-Data Visualization  
-Database Management  
-Data Wrangling
-Machine Learning</span>    
+<span class=role>Tableau
+Power BI
+SQL
+Excel 
+Python
+ETL
+</span>    
 <!-- [1]: /img/about.jpg -->
