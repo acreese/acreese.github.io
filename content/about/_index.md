@@ -32,13 +32,25 @@ Hi, my name is Alex, and I do data analysis, data visualization, and data engine
 <!-- **2022** -->
 </div></div>
 
-##### University of Amsterdam
+</br>
+
+<div class="job">
+<img src="/img/uva_logo.svg"></img>
+<div class="jobtext">
+<h5>University of Amsterdam</h5>
 <span class = major>M.A. in <a href="https://www.amsterdamhermetica.nl/">Religious Studies (Western Esotericism & Intellectual History)</a></span>
 <!-- **2017** -->
+</div></div>
 
-##### Cornell University
+</br>
+
+<div class="job">
+<img src="/img/cornell_seal.png"></img>
+<div class="jobtext">
+<h5>Cornell University</h5>
 <span class = major>B.S. in <a href="https://cals.cornell.edu/school-integrative-plant-science">Plant Sciences</a> + <a href="https://cals.cornell.edu/landscape-architecture">Landscape Architecture</a></span>   
 <!-- **2014** -->
+</div></div>
 
 <h4 class=resume-heading>Work</h4>
 
@@ -83,11 +95,11 @@ Hi, my name is Alex, and I do data analysis, data visualization, and data engine
 </div></div>
 
 #### Skills
-<span class=role>Tableau
-Power BI
-SQL
-Excel 
-Python
+<span class=role>Tableau --
+Power BI --
+SQL --
+Excel --
+Python --
 ETL
 </span>    
 <!-- [1]: /img/about.jpg -->
