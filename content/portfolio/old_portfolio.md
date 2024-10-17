@@ -3,7 +3,7 @@ draft = false
 image = "img/portfolio/undergrad_sample_1.png"
 showonlyimage = false
 date = "2016-11-05T20:22:08+05:30"
-title = "Older Work"
+title = "Early Work"
 weight = 8
 tags = ['Illustrator',"Data Viz","Graphic Design","Illustrator"]
 +++
