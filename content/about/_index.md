@@ -18,7 +18,7 @@ Hi, my name is Alex, and I do data analysis, data visualization, and data engine
 <!-- ![This is me](/img/areese_circle_photo.png) -->
 
 <p class="role">I was raised in Texas but have lived and worked in New York, California, Ontario, New Mexico, and the Netherlands. I'm now based in Austin.</p>
-<p class="role">I have professional and educational backgrounds in librarianship, design, and botany. In my free time, I enjoy gardening, hiking, swimming in Austin's natural springs, biking around town, reading, two-stepping at my local honky tonks, and contributig to <a href="https://www.inaturalist.org/observations?place_id=any&user_id=txalexander&verifiable=any">citizen science botany projects</a> 🌱 </p>
+<p class="role">I have professional and educational backgrounds in design, botany, and librarianship. In my free time, I enjoy gardening, hiking, swimming in Austin's natural springs, biking around town, reading, two-stepping at my local honky tonks, and contributig to <a href="https://www.inaturalist.org/observations?place_id=any&user_id=txalexander&verifiable=any">citizen science botany projects</a> 🌱 </p>
 <hr>
 
 </br>
@@ -29,7 +29,7 @@ Hi, my name is Alex, and I do data analysis, data visualization, and data engine
 <img src="/img/ut_seal.png"></img>
 <div class="jobtext">
 <h5>University of Texas at Austin</h5>
-<span class = major>M.S in <a href="https://www.ischool.utexas.edu/">Information Studies</a></span>
+<span class = major>M.S in <a href="https://www.ischool.utexas.edu/">Information Science</a></span>
 <p class="date">Endorsement of Specialization in Data Analysis & Visualization</p>
 <!-- **2022** -->
 </div></div>
