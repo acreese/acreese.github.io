@@ -8,14 +8,27 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Oct 2024 11:50:00 +0000</lastBuildDate><atom:link href="https://acreese.github.io/tags/data-viz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Client Churn Power BI Dashboard</title>
+      <title>Monthly Client Churn Power BI Dashboard</title>
       <link>https://acreese.github.io/portfolio/client_churn_2/</link>
       <pubDate>Wed, 16 Oct 2024 11:50:00 +0000</pubDate>
       
       <guid>https://acreese.github.io/portfolio/client_churn_2/</guid>
-      <description>&lt;p&gt;Sample client churn, retention/return, and tenure dashboards created in Power BI.&lt;/p&gt;
+      <description>&lt;p&gt;Organizational client churn, retention/return, and tenure dashboards in Power BI.&lt;/p&gt;
 &lt;div class=Tags&gt;
 &lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/power-bi/&#34;&gt;Power BI&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quarterly Sales Churn Tableau Dashboard</title>
+      <link>https://acreese.github.io/portfolio/client_churn_1/</link>
+      <pubDate>Mon, 16 Sep 2024 11:50:00 +0000</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/client_churn_1/</guid>
+      <description>&lt;p&gt;Sample sales acquisition, retention, and churn rates in Tableau.&lt;/p&gt;
+&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
 &lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;</description>
     </item>
@@ -152,7 +165,7 @@
     </item>
     
     <item>
-      <title>Older Work</title>
+      <title>Early Work</title>
       <link>https://acreese.github.io/portfolio/old_portfolio/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
       

@@ -6,7 +6,20 @@
     <description>Recent content in Tableau on Alex Reese | Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Nov 2022 19:41:01 +0530</lastBuildDate><atom:link href="https://acreese.github.io/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Sep 2024 11:50:00 +0000</lastBuildDate><atom:link href="https://acreese.github.io/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quarterly Sales Churn Tableau Dashboard</title>
+      <link>https://acreese.github.io/portfolio/client_churn_1/</link>
+      <pubDate>Mon, 16 Sep 2024 11:50:00 +0000</pubDate>
+      
+      <guid>https://acreese.github.io/portfolio/client_churn_1/</guid>
+      <description>&lt;p&gt;Sample sales acquisition, retention, and churn rates in Tableau.&lt;/p&gt;
+&lt;div class=Tags&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a href=&#34;https://acreese.github.io/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;</description>
+    </item>
+    
     <item>
       <title>Georgia Tech GTPE Human Resource Dashboard</title>
       <link>https://acreese.github.io/portfolio/gtpe_hr/</link>
