@@ -21,6 +21,8 @@ Hi, my name is Alex, and I do data analysis, data visualization, and data engine
 <p class="role">I have professional and educational backgrounds in librarianship, design, and botany. In my free time, I enjoy gardening, hiking, swimming in Austin's natural springs, biking around town, reading, two-stepping at my local honky tonks, and contributig to <a href="https://www.inaturalist.org/observations?place_id=any&user_id=txalexander&verifiable=any">citizen science botany projects</a> 🌱 </p>
 <hr>
 
+</br>
+
 #### Education
 
 <div class="job">

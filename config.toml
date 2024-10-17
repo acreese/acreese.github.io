@@ -18,11 +18,10 @@ publishDir = "docs"
   style = "red"
   heading = "Alex 👾 does 🏗️ Data 🎛️"
   description = "Samples of my professional and project work in data analysis, data visualization, data science, and graphic design."
-  copyright = "&copy;2022 Alexander Reese"
+  copyright = "&copy;2024 Alexander Reese"
   sidebarAbout = [
-    "I'm Alex Reese. I'm a data analyst and data storyteller skilled in SQL, Tableau, Python, and Machine Learning techniques.",
+    "I'm Alex Reese. I'm a data analyst and visualizer using Tableau, Power BI, Python, SQL, and ML techniques.",
     "M.S. in Information Science : Data Analytics from UT Austin.",
-    "Feel free to <a href ='https://acreese.github.io/contact'/>get in touch</a> about work opportunities."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -59,9 +58,9 @@ publishDir = "docs"
   name = "About"
   url = "about/"
 
-  [[params.navlinks]]
-  name = "Contact me"
-  url = "contact/"
+  # [[params.navlinks]]
+  # name = "Contact me"
+  # url = "contact/"
 
   [params.social]
   # facebook      = "full page or profile url in facebook"
