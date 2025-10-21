@@ -24,7 +24,7 @@ Full resume available upon request.
 <p class="role">I have professional and educational backgrounds in design, botany, and metadata librarianship. In my free time, I enjoy gardening, hiking, swimming, reading, two-stepping at local honky tonks, and contributig to <a href="https://www.inaturalist.org/observations?place_id=any&user_id=txalexander&verifiable=any">citizen science botany projects</a> 🌱 </p>
 <hr>
 
-</br>
+
 
 #### Education
 
@@ -97,6 +97,8 @@ Full resume available upon request.
 <p class=date>Aug 2018 - Sep 2019</p>
 </div></div>
 -->
+
+<hr>
 
 #### Skills
 **Data Visualization:** <span class="role">Power BI (DAX, Power Query), Tableau, Tableau Prep, Looker </span>
