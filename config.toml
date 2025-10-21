@@ -13,6 +13,7 @@ publishDir = "docs"
   # categories = 'categories'
 
 [params]
+  ga4_id = "G-P4Q14QJH4K"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "red"
@@ -21,7 +22,7 @@ publishDir = "docs"
   copyright = "&copy;2024 Alexander Reese"
   sidebarAbout = [
     "I'm Alex Reese. I'm a data analyst and visualizer using Tableau, Power BI, Python, SQL, and ML techniques.",
-    "B.S. Cornell University, M.S. Univeristy of Texas at Austin.",
+    "M.S. Univeristy of Texas at Austin, B.S. Cornell University",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
