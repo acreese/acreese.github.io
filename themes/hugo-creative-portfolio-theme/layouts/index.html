@@ -2,7 +2,7 @@
     {{ range .Site.Params.navlinks }}
     {{ if .home }}
     <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
-    {{- partial "resume.html" . -}}
+   {{/* partial "resume.html" . */}}
     {{ end }}
     {{ end }}
   </head>
