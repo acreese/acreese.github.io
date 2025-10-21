@@ -2,9 +2,34 @@
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.heading }}</a></h1>
 
-    <div class="sidebar-circle">
-      <img src="/img/areese_circle_photo.png" class="sidebar-photo">
-    </div>
+ <div
+  class="sidebar-circle"
+  style="
+    width:60%;
+    max-width:220px;
+    aspect-ratio:1/1;
+    border-radius:9999px;
+    overflow:hidden;
+    margin:30px auto 18px auto;
+    background-color:rgba(254,219,219,1);
+  "
+>
+  <img
+    src="/img/areese_circle_photo.png"
+    alt="Profile photo"
+    class="sidebar-photo"
+    width="200"
+    height="200"
+    style="
+      display:block;
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      padding:8px;
+      box-sizing:border-box;
+    "
+  >
+</div>
 
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>

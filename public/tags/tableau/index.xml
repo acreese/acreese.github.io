@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tableau on Alex Reese | Portfolio</title>
-    <link>https://alex-reese.com/tags/tableau/</link>
+    <link>http://localhost:65225/tags/tableau/</link>
     <description>Recent content in Tableau on Alex Reese | Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Sep 2024 11:50:00 +0000</lastBuildDate>
-    <atom:link href="https://alex-reese.com/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:65225/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quarterly Sales Churn Tableau Dashboard</title>
-      <link>https://alex-reese.com/portfolio/client_churn_1/</link>
+      <link>http://localhost:65225/portfolio/client_churn_1/</link>
       <pubDate>Mon, 16 Sep 2024 11:50:00 +0000</pubDate>
-      <guid>https://alex-reese.com/portfolio/client_churn_1/</guid>
-      <description>&lt;p&gt;Sample sales acquisition, retention, and churn rates in Tableau.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:65225/portfolio/client_churn_1/</guid>
+      <description>&lt;p&gt;Sample sales acquisition, retention, and churn rates in Tableau.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Georgia Tech GTPE Human Resource Dashboard</title>
-      <link>https://alex-reese.com/portfolio/gtpe_hr/</link>
+      <link>http://localhost:65225/portfolio/gtpe_hr/</link>
       <pubDate>Fri, 04 Nov 2022 19:41:01 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/gtpe_hr/</guid>
-      <description>&lt;p&gt;Human Resource Dashboard for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Development Unit using Python API calls and complex Tableau tables.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:65225/portfolio/gtpe_hr/</guid>
+      <description>&lt;p&gt;Human Resource Dashboard for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Development Unit using Python API calls and complex Tableau tables.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Project Managmeent Course Portfolio Dashboards</title>
-      <link>https://alex-reese.com/portfolio/gtpe/</link>
+      <link>http://localhost:65225/portfolio/gtpe/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/gtpe/</guid>
-      <description>&lt;p&gt;Data diagraming, data wrangling/ETL, and dashboard creation for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Portfolio Development.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:65225/portfolio/gtpe/</guid>
+      <description>&lt;p&gt;Data diagraming, data wrangling/ETL, and dashboard creation for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Portfolio Development.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>San Marcos Library Collection &amp; User Anlaysis</title>
-      <link>https://alex-reese.com/portfolio/smpl/</link>
+      <link>http://localhost:65225/portfolio/smpl/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/smpl/</guid>
-      <description>&lt;p&gt;Collection, circulation, and patron data analysis and visualization for internal library use.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Excel&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:65225/portfolio/smpl/</guid>
+      <description>&lt;p&gt;Collection, circulation, and patron data analysis and visualization for internal library use.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Excel&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Automated Monkeypox Case Dashboard</title>
-      <link>https://alex-reese.com/portfolio/mpox/</link>
+      <link>http://localhost:65225/portfolio/mpox/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/mpox/</guid>
-      <description>&lt;p&gt;An automated Tableau dashboard powered by an AWS Lambda ETL function (in Python) that updates an RDS PostgreSQL database daily.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/sql&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:65225/portfolio/mpox/</guid>
+      <description>&lt;p&gt;An automated Tableau dashboard powered by an AWS Lambda ETL function (in Python) that updates an RDS PostgreSQL database daily.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/sql&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/data-viz&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/etl&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Meme Generator Natural Language Processing and Sentiment Analysis</title>
-      <link>https://alex-reese.com/portfolio/memes/</link>
+      <link>http://localhost:65225/portfolio/memes/</link>
       <pubDate>Mon, 29 Aug 2022 19:53:42 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/memes/</guid>
-      <description>&lt;p&gt;Data wrangling using Python and SQL meme text, images, and 82 language sentiment lexicons into a realational MySQL database for language and sentiment analysis. Visualization with Tableau.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/sql/&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/nlp/&#34;&gt;NLP&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:65225/portfolio/memes/</guid>
+      <description>&lt;p&gt;Data wrangling using Python and SQL meme text, images, and 82 language sentiment lexicons into a realational MySQL database for language and sentiment analysis. Visualization with Tableau.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/sql/&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/nlp/&#34;&gt;NLP&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Sample Dashboard</title>
-      <link>https://alex-reese.com/portfolio/sample_viz_1/</link>
+      <link>http://localhost:65225/portfolio/sample_viz_1/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/sample_viz_1/</guid>
-      <description>&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:65225/portfolio/sample_viz_1/</guid>
+      <description>&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Sample Dashboard</title>
-      <link>https://alex-reese.com/portfolio/sample_viz_2/</link>
+      <link>http://localhost:65225/portfolio/sample_viz_2/</link>
       <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/sample_viz_2/</guid>
-      <description>&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:65225/portfolio/sample_viz_2/</guid>
+      <description>&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

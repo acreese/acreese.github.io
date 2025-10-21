@@ -2,25 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Illustrator on Alex Reese | Portfolio</title>
-    <link>https://alex-reese.com/tags/illustrator/</link>
+    <link>http://localhost:65225/tags/illustrator/</link>
     <description>Recent content in Illustrator on Alex Reese | Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate>
-    <atom:link href="https://alex-reese.com/tags/illustrator/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
+    <atom:link href="http://localhost:65225/tags/illustrator/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Diary</title>
-      <link>https://alex-reese.com/portfolio/data_diary/</link>
+      <link>http://localhost:65225/portfolio/data_diary/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/data_diary/</guid>
-      <description>&lt;p&gt;A mini data diary just for fun.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:65225/portfolio/data_diary/</guid>
+      <description>&lt;p&gt;A mini data diary just for fun.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Early Work</title>
-      <link>https://alex-reese.com/portfolio/old_portfolio/</link>
+      <link>http://localhost:65225/portfolio/old_portfolio/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/old_portfolio/</guid>
-      <description>&lt;p&gt;Data visualization, graphic design, landscape design, and urban planning work from 2010-2020&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/graphic-design/&#34;&gt;Graphic Design&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Photoshop&lt;/span&gt;&#xA;&lt;span&gt;InDesign&lt;/span&gt;&#xA;&lt;span&gt;Rhino 3D&lt;/span&gt;&#xA;&lt;!-- &lt;span&gt;Grasshopper&lt;/span&gt;&#xA;&lt;span&gt;V-Ray&lt;/span&gt; --&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:65225/portfolio/old_portfolio/</guid>
+      <description>&lt;p&gt;Data visualization, graphic design, landscape design, and urban planning work from 2010-2020&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/graphic-design/&#34;&gt;Graphic Design&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Photoshop&lt;/span&gt;&#xA;&lt;span&gt;InDesign&lt;/span&gt;&#xA;&lt;span&gt;Rhino 3D&lt;/span&gt;&#xA;&lt;!-- &lt;span&gt;Grasshopper&lt;/span&gt;&#xA;&lt;span&gt;V-Ray&lt;/span&gt; --&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Icon Design for iSchool Website</title>
+      <link>http://localhost:65225/portfolio/icons/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:65225/portfolio/icons/</guid>
+      <description>&lt;div&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/graphic-design/&#34;&gt;Graphic Design&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>iGive Infographic</title>
+      <link>http://localhost:65225/portfolio/igive/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      <guid>http://localhost:65225/portfolio/igive/</guid>
+      <description>&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:65225/tags/graphic-design/&#34;&gt;Graphic Design&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
