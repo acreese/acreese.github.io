@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphic Design on Alex Reese | Portfolio</title>
+    <link>http://localhost:1313/tags/graphic-design/</link>
+    <description>Recent content in Graphic Design on Alex Reese | Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/graphic-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Early Work</title>
+      <link>http://localhost:1313/portfolio/old_portfolio/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/old_portfolio/</guid>
+      <description>&lt;p&gt;Data visualization, graphic design, landscape design, and urban planning work from 2010-2020&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/graphic-design/&#34;&gt;Graphic Design&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Photoshop&lt;/span&gt;&#xA;&lt;span&gt;InDesign&lt;/span&gt;&#xA;&lt;span&gt;Rhino 3D&lt;/span&gt;&#xA;&lt;!-- &lt;span&gt;Grasshopper&lt;/span&gt;&#xA;&lt;span&gt;V-Ray&lt;/span&gt; --&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Icon Design for iSchool Website</title>
+      <link>http://localhost:1313/portfolio/icons/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/icons/</guid>
+      <description>&lt;div&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/graphic-design/&#34;&gt;Graphic Design&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>iGive Infographic</title>
+      <link>http://localhost:1313/portfolio/igive/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/igive/</guid>
+      <description>&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/graphic-design/&#34;&gt;Graphic Design&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

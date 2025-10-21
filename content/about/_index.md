@@ -3,22 +3,25 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-Hi, my name is Alex, and I do data analysis, data visualization, and data engineering. I like to create meaningful, valuable insights into data and express them in compelling and accessible visualizations.
+Hi, I’m Alex — a data analyst and visualization specialist with a background in information science and data infrastructure. I design dashboards, data models, and reporting systems that make complex information clear, reliable, and actionable. My work sits at the intersection of analytics, storytelling, and system design: turning raw data into tools that help organizations see patterns, make decisions, and measure impact.
 
-<a href="/downloads/Resume_Reese,Alexander_9.24.pdf" class="btn" download>
+I’ve built data products and reporting pipelines for teams across healthcare, higher education, and enterprise environments, using tools like SQL, Python, Power BI, and Tableau. I care about data quality, thoughtful design, and making insight accessible to everyone.
+
+Full resume available upon request.
+
+<!--<a href="/downloads/Resume_Reese,Alexander_9.24.pdf" class="btn" download>
     📄 Download My Resume
 </a>
 <small>Last updated : Sep 2024</small>
 
-
-</br>
+</br>-->
 </br>
 
 
 <!-- ![This is me](/img/areese_circle_photo.png) -->
 
 <p class="role">I was raised in Texas but have lived and worked in New York, California, Ontario, New Mexico, and the Netherlands. I'm now based in Austin.</p>
-<p class="role">I have professional and educational backgrounds in design, botany, and librarianship. In my free time, I enjoy gardening, hiking, swimming in Austin's natural springs, biking around town, reading, two-stepping at my local honky tonks, and contributig to <a href="https://www.inaturalist.org/observations?place_id=any&user_id=txalexander&verifiable=any">citizen science botany projects</a> 🌱 </p>
+<p class="role">I have professional and educational backgrounds in design, botany, and metadata librarianship. In my free time, I enjoy gardening, hiking, swimming, reading, two-stepping at local honky tonks, and contributig to <a href="https://www.inaturalist.org/observations?place_id=any&user_id=txalexander&verifiable=any">citizen science botany projects</a> 🌱 </p>
 <hr>
 
 </br>
@@ -54,20 +57,19 @@ Hi, my name is Alex, and I do data analysis, data visualization, and data engine
 <!-- **2014** -->
 </div></div>
 
+<!--
 <h4 class=resume-heading>Work</h4>
 
 <div class="job">
-<!-- <img src=""></img> -->
 <div class="jobtext">
 <h5>The Dempsey Center</h5>   
-<div class=role>Business Intelligence and Reporting Analyst</div>  
+<div class=role>Business Intelligence and Analytics Lead</div>  
 <div class=date>Dec 2022 - Present</div>
 </div></div>
 
 <div class="job">
-<!-- <img src=""></img> -->
 <div class="jobtext">
-<h5>Georgia Tech Professional Education</h5>   
+<h5>Georgia Institute of Technology - Georgia Tech Professional Education</h5>   
 <div class=role>Data Analyst</div>  
 <div class=date>Jan 2021 - Dec 2022</div>
 </div></div>
@@ -76,8 +78,8 @@ Hi, my name is Alex, and I do data analysis, data visualization, and data engine
 <div class=role>Technical & Data Writing Instructor</div>    
 <p class=date>Jan 2021 - May 2022</p>  
 
-##### Library of Congress, Digital Conent Management Section  
-<div class=role>Junior Fellow</div>
+##### Library of Congress
+<div class=role>Junior Fellow, Digital Conent Management Section  </div>
 <div class=date>May 2021 - Aug 2021</div>  
 
 ##### School of Information, University of Texas at Austin  
@@ -89,19 +91,20 @@ Hi, my name is Alex, and I do data analysis, data visualization, and data engine
 <p class=date>Sept 2019 - June 2020</p>
 
 <div class="job">
-<!-- <img src="/img/taos.png"></img> -->
 <div class="jobtext">
 <h5>Taos Public Library</h5>  
-<div class=role>Metadata Librian, Cataloger</div>    
+<div class=role>Metadata Librian III, Cataloger</div>    
 <p class=date>Aug 2018 - Sep 2019</p>
 </div></div>
+-->
 
 #### Skills
-<span class=role>Tableau --
-Power BI --
-SQL --
-Excel --
-Python --
-ETL
-</span>    
+**Data Visualization:** <span class="role">Power BI (DAX, Power Query), Tableau, Tableau Prep, Looker </span>
+
+**Data Engineering:** <span class="role">SQL, Python (pandas, PySpark), Snowflake, Microsoft Fabric, Azure Data Factory, dbt  </span> 
+
+**Analysis & Modeling:** <span class="role">scikit-learn, Excel, statistical and exploratory analysis   </span>
+
+**Design & Communication:** <span class="role">Figma, Adobe Creative Suite: Illustrator, Photoshop, InDesign </span>
+ 
 <!-- [1]: /img/about.jpg -->
