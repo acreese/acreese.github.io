@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Reese | Portfolio</title>
-    <link>https://alex-reese.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Alex Reese | Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Oct 2025 19:41:01 +0530</lastBuildDate>
-    <atom:link href="https://alex-reese.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Visualizing Plant Taxonomy with D3.js</title>
-      <link>https://alex-reese.com/portfolio/taxonomy_d3/</link>
+      <link>http://localhost:1313/portfolio/taxonomy_d3/</link>
       <pubDate>Thu, 23 Oct 2025 19:41:01 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/taxonomy_d3/</guid>
-      <description>&lt;p&gt;Playing around with D3.js&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;D3.js&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/taxonomy_d3/</guid>
+      <description>&lt;p&gt;My recent adventures in D3.js&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;D3.js&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Monthly Client Churn Power BI Dashboard</title>
-      <link>https://alex-reese.com/portfolio/client_churn_2/</link>
+      <link>http://localhost:1313/portfolio/client_churn_2/</link>
       <pubDate>Wed, 16 Oct 2024 11:50:00 +0000</pubDate>
-      <guid>https://alex-reese.com/portfolio/client_churn_2/</guid>
-      <description>&lt;p&gt;Organizational client churn, retention/return, and tenure dashboards in Power BI.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/power-bi/&#34;&gt;Power BI&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/client_churn_2/</guid>
+      <description>&lt;p&gt;Organizational client churn, retention/return, and tenure dashboards in Power BI.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/power-bi/&#34;&gt;Power BI&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Quarterly Sales Churn Tableau Dashboard</title>
-      <link>https://alex-reese.com/portfolio/client_churn_1/</link>
+      <link>http://localhost:1313/portfolio/client_churn_1/</link>
       <pubDate>Mon, 16 Sep 2024 11:50:00 +0000</pubDate>
-      <guid>https://alex-reese.com/portfolio/client_churn_1/</guid>
-      <description>&lt;p&gt;Sample sales acquisition, retention, and churn rates in Tableau.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/client_churn_1/</guid>
+      <description>&lt;p&gt;Sample sales acquisition, retention, and churn rates in Tableau.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Georgia Tech GTPE Human Resource Dashboard</title>
-      <link>https://alex-reese.com/portfolio/gtpe_hr/</link>
+      <link>http://localhost:1313/portfolio/gtpe_hr/</link>
       <pubDate>Fri, 04 Nov 2022 19:41:01 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/gtpe_hr/</guid>
-      <description>&lt;p&gt;Human Resource Dashboard for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Development Unit using Python API calls and complex Tableau tables.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/gtpe_hr/</guid>
+      <description>&lt;p&gt;Human Resource Dashboard for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Development Unit using Python API calls and complex Tableau tables.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
-      <title>Project Managmeent Course Portfolio Dashboards</title>
-      <link>https://alex-reese.com/portfolio/gtpe/</link>
+      <title>Project Management Course Development Dashboards</title>
+      <link>http://localhost:1313/portfolio/gtpe/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/gtpe/</guid>
-      <description>&lt;p&gt;Data diagraming, data wrangling/ETL, and dashboard creation for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Portfolio Development.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/gtpe/</guid>
+      <description>&lt;p&gt;Data diagraming, data wrangling/ETL, and dashboard creation for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Portfolio Development.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
-      <title>San Marcos Library Collection &amp; User Anlaysis</title>
-      <link>https://alex-reese.com/portfolio/smpl/</link>
+      <title>San Marcos Library Collection &amp; User Analysis</title>
+      <link>http://localhost:1313/portfolio/smpl/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/smpl/</guid>
-      <description>&lt;p&gt;Collection, circulation, and patron data analysis and visualization for internal library use.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Excel&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/smpl/</guid>
+      <description>&lt;p&gt;Collection, circulation, and patron data analysis and visualization for internal library use.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Excel&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Automated Monkeypox Case Dashboard</title>
-      <link>https://alex-reese.com/portfolio/mpox/</link>
+      <link>http://localhost:1313/portfolio/mpox/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/mpox/</guid>
-      <description>&lt;p&gt;An automated Tableau dashboard powered by an AWS Lambda ETL function (in Python) that updates an RDS PostgreSQL database daily.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/sql&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/mpox/</guid>
+      <description>&lt;p&gt;An automated Tableau dashboard powered by an AWS Lambda ETL function (in Python) that updates an RDS PostgreSQL database daily.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/sql&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/etl&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Meme Generator Natural Language Processing and Sentiment Analysis</title>
-      <link>https://alex-reese.com/portfolio/memes/</link>
+      <link>http://localhost:1313/portfolio/memes/</link>
       <pubDate>Mon, 29 Aug 2022 19:53:42 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/memes/</guid>
-      <description>&lt;p&gt;Data wrangling using Python and SQL meme text, images, and 82 language sentiment lexicons into a realational MySQL database for language and sentiment analysis. Visualization with Tableau.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/sql/&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/nlp/&#34;&gt;NLP&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/memes/</guid>
+      <description>&lt;p&gt;Data wrangling using Python and SQL meme text, images, and 82 language sentiment lexicons into a realational MySQL database for language and sentiment analysis. Visualization with Tableau.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/sql/&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/nlp/&#34;&gt;NLP&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>COVID Authorship Community Detection with Machine Learning</title>
-      <link>https://alex-reese.com/portfolio/community_detection/</link>
+      <link>http://localhost:1313/portfolio/community_detection/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/community_detection/</guid>
-      <description>&lt;p&gt;Creation of netowrk graph &amp;amp; comparison of algorithmic clustering and community detection among of scientific authors of COVID-19 Research. &lt;a href=&#34;https://github.com/acreese/covid_coauthorship_community_detection&#34;&gt;[GitHub]&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/machine-learning/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;GraphSAGE&lt;/span&gt;&#xA;&lt;span&gt;Infomap&lt;/span&gt;&#xA;&lt;span&gt;t-SNE&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/community_detection/</guid>
+      <description>&lt;p&gt;Creation of netowrk graph &amp;amp; comparison of algorithmic clustering and community detection among of scientific authors of COVID-19 Research. &lt;a href=&#34;https://github.com/acreese/covid_coauthorship_community_detection&#34;&gt;[GitHub]&lt;/a&gt;&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/machine-learning/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;GraphSAGE&lt;/span&gt;&#xA;&lt;span&gt;Infomap&lt;/span&gt;&#xA;&lt;span&gt;t-SNE&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Fake News Detection with Deep Learning</title>
-      <link>https://alex-reese.com/portfolio/fake_news/</link>
+      <link>http://localhost:1313/portfolio/fake_news/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/fake_news/</guid>
-      <description>&lt;p&gt;Creation of a statement validator comparing multiple models and embedding strategies on diverse fake news datasets.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/machine-learning/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/nlp/&#34;&gt;NLP&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Neural Networks&lt;/span&gt;&#xA;&lt;span&gt;LSTM&lt;/span&gt;&#xA;&lt;span&gt;Word2Vec&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/fake_news/</guid>
+      <description>&lt;p&gt;Creation of a statement validator comparing multiple models and embedding strategies on diverse fake news datasets.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/machine-learning/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/nlp/&#34;&gt;NLP&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Neural Networks&lt;/span&gt;&#xA;&lt;span&gt;LSTM&lt;/span&gt;&#xA;&lt;span&gt;Word2Vec&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Data Diary</title>
-      <link>https://alex-reese.com/portfolio/data_diary/</link>
+      <link>http://localhost:1313/portfolio/data_diary/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/data_diary/</guid>
-      <description>&lt;p&gt;A mini data diary just for fun.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/data_diary/</guid>
+      <description>&lt;p&gt;A mini data diary just for fun.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Sample Dashboard</title>
-      <link>https://alex-reese.com/portfolio/sample_viz_1/</link>
+      <link>http://localhost:1313/portfolio/sample_viz_1/</link>
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/sample_viz_1/</guid>
-      <description>&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/sample_viz_1/</guid>
+      <description>&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Sample Dashboard</title>
-      <link>https://alex-reese.com/portfolio/sample_viz_2/</link>
+      <link>http://localhost:1313/portfolio/sample_viz_2/</link>
       <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/sample_viz_2/</guid>
-      <description>&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/sample_viz_2/</guid>
+      <description>&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Early Work</title>
-      <link>https://alex-reese.com/portfolio/old_portfolio/</link>
+      <link>http://localhost:1313/portfolio/old_portfolio/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
-      <guid>https://alex-reese.com/portfolio/old_portfolio/</guid>
-      <description>&lt;p&gt;Data visualization, graphic design, landscape design, and urban planning work from 2010-2020&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/graphic-design/&#34;&gt;Graphic Design&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Photoshop&lt;/span&gt;&#xA;&lt;span&gt;InDesign&lt;/span&gt;&#xA;&lt;span&gt;Rhino 3D&lt;/span&gt;&#xA;&lt;!-- &lt;span&gt;Grasshopper&lt;/span&gt;&#xA;&lt;span&gt;V-Ray&lt;/span&gt; --&gt;&#xA;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/portfolio/old_portfolio/</guid>
+      <description>&lt;p&gt;Data visualization, graphic design, landscape design, and urban planning work from 2010-2020&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/graphic-design/&#34;&gt;Graphic Design&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Photoshop&lt;/span&gt;&#xA;&lt;span&gt;InDesign&lt;/span&gt;&#xA;&lt;span&gt;Rhino 3D&lt;/span&gt;&#xA;&lt;!-- &lt;span&gt;Grasshopper&lt;/span&gt;&#xA;&lt;span&gt;V-Ray&lt;/span&gt; --&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

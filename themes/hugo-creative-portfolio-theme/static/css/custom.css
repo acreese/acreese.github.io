@@ -191,7 +191,7 @@ h4 + p.social {
   line-height: 2em;
   color: #928b8b;
   /* background-color: #F6F6F6; */
-  background-color: #ffdbdb;
+  background-color: #e3dbff;
   border-radius: 12px;
 }
 
@@ -216,7 +216,7 @@ h4 + p.social {
 
 
 .box-masonry {
-  border-radius: 0px 0px 12px 12px; 
+  border-radius: 7px 7px 7px 7px; 
 } 
 
 .box-masonry .box-masonry-text p {
