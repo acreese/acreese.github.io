@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Project Managmeent Course Portfolio Dashboards"
+title = "Project Management Course Development Dashboards"
 draft = false
 image = "img/portfolio/GTPE_dual_screen_dash.png"
 showonlyimage = false
