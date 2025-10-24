@@ -13,7 +13,7 @@ Data diagraming, data wrangling/ETL, and dashboard creation for Georgia Tech's P
 <div class=Tags>
 <span><a href="/tags/python/">Python</a></span>
 <span><a href="/tags/tableau/">Tableau</a></span>
-<span><a href="/tags/etl/">ETL</a></span>
+<!--<span><a href="/tags/etl/">ETL</a></span>-->
 <span><a href="/tags/data-viz/">Data Viz</a></span>
 </div>
 <!--more-->

@@ -8,21 +8,22 @@ weight = 8
 tags = ['Illustrator',"Data Viz","Graphic Design","Illustrator"]
 +++
 
-Data visualization, graphic design, landscape design, and urban planning work from 2010-2020
+Data visualization, graphic design, landscape design, and urban planning work
 
 <div class=Tags>
 <span><a href="/tags/data-viz/">Data Viz</a></span>
 <span><a href="/tags/graphic-design/">Graphic Design</a></span>
 <span><a href="/tags/illustrator/">Illustrator</a></span>
 <span>Photoshop</span>
-<span>InDesign</span>
+<span>3D</span>
+<!--<span>InDesign</span>
 <span>Rhino 3D</span>
-<!-- <span>Grasshopper</span>
+<span>Grasshopper</span>
 <span>V-Ray</span> -->
 </div>
 <!--more-->
 
-[View the full spread on Issuu](https://issuu.com/alexreese/docs/pass1)
+<br>
 
 <!-- {{< embed-pdf url="/img/portfolio/undergrad_portfolio.pdf" >}} -->
 

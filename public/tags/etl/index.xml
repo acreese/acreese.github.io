@@ -13,28 +13,28 @@
       <link>http://localhost:1313/portfolio/gtpe_hr/</link>
       <pubDate>Fri, 04 Nov 2022 19:41:01 +0530</pubDate>
       <guid>http://localhost:1313/portfolio/gtpe_hr/</guid>
-      <description>&lt;p&gt;Human Resource Dashboard for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Development Unit using Python API calls and complex Tableau tables.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Project Management Course Development Dashboards</title>
-      <link>http://localhost:1313/portfolio/gtpe/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      <guid>http://localhost:1313/portfolio/gtpe/</guid>
-      <description>&lt;p&gt;Data diagraming, data wrangling/ETL, and dashboard creation for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Portfolio Development.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Human Resource Dashboard for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Development Unit using Python API calls and complex Tableau tables.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;!--&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;--&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Automated Monkeypox Case Dashboard</title>
       <link>http://localhost:1313/portfolio/mpox/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       <guid>http://localhost:1313/portfolio/mpox/</guid>
-      <description>&lt;p&gt;An automated Tableau dashboard powered by an AWS Lambda ETL function (in Python) that updates an RDS PostgreSQL database daily.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/sql&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/etl&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;An automated Tableau dashboard powered by an AWS Lambda ETL function (in Python) that updates an RDS PostgreSQL database daily.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/sql&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;!--&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/etl&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;--&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Project Management Course Development Dashboards</title>
+      <link>http://localhost:1313/portfolio/gtpe/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/gtpe/</guid>
+      <description>&lt;p&gt;Data diagraming, data wrangling/ETL, and dashboard creation for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Portfolio Development.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;!--&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;--&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Meme Generator Natural Language Processing and Sentiment Analysis</title>
       <link>http://localhost:1313/portfolio/memes/</link>
       <pubDate>Mon, 29 Aug 2022 19:53:42 +0530</pubDate>
       <guid>http://localhost:1313/portfolio/memes/</guid>
-      <description>&lt;p&gt;Data wrangling using Python and SQL meme text, images, and 82 language sentiment lexicons into a realational MySQL database for language and sentiment analysis. Visualization with Tableau.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/sql/&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/nlp/&#34;&gt;NLP&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Data wrangling using Python and SQL meme text, images, and 82 language sentiment lexicons into a realational MySQL database for language and sentiment analysis. Visualization with Tableau.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/sql/&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;!--&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;--&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/nlp/&#34;&gt;NLP&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

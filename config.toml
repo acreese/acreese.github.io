@@ -19,9 +19,9 @@ publishDir = "public"
   style = "red"
   heading = "Alex 👾 does 🏗️ Data 🎛️"
   description = "Samples of my professional and project work in data analysis, data visualization, data science, and graphic design."
-  copyright = "&copy;2024 Alexander Reese"
+  copyright = "&copy;2025 Alexander Reese"
   sidebarAbout = [
-    "I'm Alex Reese. I'm a data analyst and visualizer using Tableau, Power BI, Python, SQL, and ML techniques.",
+    "I'm Alex Reese. I'm a data visualizatoin analyst using Tableau, Power BI, D3.js, & Python",
     "M.S. Univeristy of Texas at Austin, B.S. Cornell University",
   ]
   # Contact page
@@ -71,7 +71,7 @@ publishDir = "public"
   linkedin      = "https://www.linkedin.com/in/alexandercreese/"
   # stackoverflow = "full profile url in stackoverflow"
   instagram     = "http://www.instagram.com/fancyboyreese"
-  github        = "https://github.com/acreese"
+  # github        = "https://github.com/acreese"
   # gitlab        = "full profile url in gitlab"
   # youtube       = "full profile url in youtube"
   # whatsapp      = "wa.me service link"

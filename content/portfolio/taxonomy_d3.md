@@ -11,7 +11,7 @@ tags = ['D3.js','Data Viz']
 My recent adventures in D3.js
 
 <div class=Tags>
-<span><a href="/tags/python/">D3.js</a></span>
+<span><a href="/tags/D3.js/">D3.js</a></span>
 <span><a href="/tags/data-viz/">Data Viz</a></span>
 </div>
 <!--more-->

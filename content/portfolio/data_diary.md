@@ -2,13 +2,13 @@
 image = "img/portfolio/data_diary_reese_alexander.png"
 showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
-title = "Data Diary"
+title = "Infographic"
 draft = false
-weight = 5
+weight = 2
 tags = ['Data Viz','Illustrator']
 +++
 
-A mini data diary just for fun.
+Handmade Custom Visuals :)
 
 <div class=Tags>
 <span><a href="/tags/data-viz/">Data Viz</a></span>

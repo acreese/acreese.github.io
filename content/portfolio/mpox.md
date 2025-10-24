@@ -4,7 +4,7 @@ title = "Automated Monkeypox Case Dashboard"
 draft = false
 image = "img/portfolio/laptop_mpox_dash_1.png"
 showonlyimage = false
-weight = 2
+weight = 1.5
 tags = ['Python', 'SQL', 'Tableau','Data Viz', 'ETL']
 +++
 
@@ -15,7 +15,7 @@ An automated Tableau dashboard powered by an AWS Lambda ETL function (in Python)
 <span><a href="/tags/tableau/">Tableau</a></span>
 <span><a href="/tags/sql">SQL</a></span>
 <span><a href="/tags/data-viz">Data Viz</a></span>
-<span><a href="/tags/etl">ETL</a></span>
+<!--<span><a href="/tags/etl">ETL</a></span>-->
 </div>
 <!--more-->
 <hr>

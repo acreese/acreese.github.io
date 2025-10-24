@@ -15,8 +15,8 @@ Data wrangling using Python and SQL meme text, images, and 82 language sentiment
 <span><a href="/tags/python/">Python</a></span>
 <span><a href="/tags/sql/">SQL</a></span>
 <span><a href="/tags/tableau/">Tableau</a></span>
-<span><a href="/tags/etl/">ETL</a></span>
-<span><a href="/tags/nlp/">NLP</a></span>
+<!--<span><a href="/tags/etl/">ETL</a></span>
+<span><a href="/tags/nlp/">NLP</a></span>-->
 <span><a href="/tags/data-viz/">Data Viz</a></span>
 </div>
 <!--more-->
