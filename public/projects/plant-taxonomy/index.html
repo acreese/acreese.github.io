@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lamiales Taxonomy - Radial Tree Visualization</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Lamiales Taxonomy</h1>
+            <p class="subtitle">A radial visualization of flowering plant taxonomy</p>
+
+            <div class="project-info">
+                <p>
+                    This interactive visualization explores the taxonomic diversity of <strong>Lamiales</strong>,
+                    an order of flowering plants including mints, olives, and snapdragons.
+                    Data sourced from the <strong>GBIF Backbone Taxonomy</strong>.
+                </p>
+                <p>
+                    <strong>Methodology:</strong> Nodes are weighted by actual species diversity—families with more species
+                    receive proportionally more representation. Toggle between <em>earliest discoveries</em> (1700s-1800s,
+                    honoring foundational botanical work) and <em>latest discoveries</em> (1900s-2000s, showcasing modern research).
+                    Hover over nodes to see actual vs. displayed counts, revealing the full scope of biodiversity.
+                </p>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <aside class="sidebar">
+                <div class="panel legend-panel">
+                    <h3>Legend</h3>
+                    <p class="legend-note">Each family has a unique color</p>
+                    <div class="legend-items">
+                        <div class="legend-item">
+                            <svg width="50" height="50">
+                                <circle cx="25" cy="25" r="24" class="legend-circle-order"></circle>
+                            </svg>
+                            <span>Order</span>
+                        </div>
+                        <div class="legend-item">
+                            <svg width="22" height="22">
+                                <circle cx="11" cy="11" r="9" class="legend-circle-family"></circle>
+                            </svg>
+                            <span>Family</span>
+                        </div>
+                        <div class="legend-item">
+                            <svg width="16" height="16">
+                                <circle cx="8" cy="8" r="6" class="legend-circle-genus"></circle>
+                            </svg>
+                            <span>Genus</span>
+                        </div>
+                        <div class="legend-item">
+                            <svg width="10" height="10">
+                                <circle cx="5" cy="5" r="3" class="legend-circle-species"></circle>
+                            </svg>
+                            <span>Species</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel stats-panel">
+                    <h3>Statistics</h3>
+                    <div class="stats-items">
+                        <div class="stat-item">
+                            <span class="stat-label">Displayed Nodes:</span>
+                            <span class="stat-value" id="stat-total">-</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Families:</span>
+                            <span class="stat-value" id="stat-families">-</span>
+                        </div>
+                        <div class="stat-item stat-secondary">
+                            <span class="stat-label">Total in Lamiales:</span>
+                            <span class="stat-value" id="stat-families-actual">-</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Genera:</span>
+                            <span class="stat-value" id="stat-genera">-</span>
+                        </div>
+                        <div class="stat-item stat-secondary">
+                            <span class="stat-label">Total in Lamiales:</span>
+                            <span class="stat-value" id="stat-genera-actual">-</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-label">Species:</span>
+                            <span class="stat-value" id="stat-species">-</span>
+                        </div>
+                        <div class="stat-item stat-secondary">
+                            <span class="stat-label">Total in Lamiales:</span>
+                            <span class="stat-value" id="stat-species-actual">-</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel controls-panel">
+                    <h3>Discovery Period</h3>
+                    <div class="toggle-group">
+                        <div class="radio-option">
+                            <label class="radio-label">
+                                <input type="radio" name="discovery-view" value="earliest" checked>
+                                <span>Earliest Discovered</span>
+                            </label>
+                            <p class="radio-hint">1700s-1800s</p>
+                        </div>
+                        <div class="radio-option">
+                            <label class="radio-label">
+                                <input type="radio" name="discovery-view" value="latest">
+                                <span>Latest Discovered</span>
+                            </label>
+                            <p class="radio-hint">1900s-2000s</p>
+                        </div>
+                    </div>
+
+                    <h3 style="margin-top: 20px;">Zoom</h3>
+                    <button id="reset-zoom" class="reset-button" onclick="window.resetVisualizationZoom && window.resetVisualizationZoom()">
+                        Reset Zoom
+                    </button>
+                    <p class="hint">Hover to preview<br>Click to zoom</p>
+                </div>
+            </aside>
+
+            <div id="visualization"></div>
+        </div>
+
+        <div id="tooltip" class="tooltip"></div>
+    </div>
+
+    <!-- D3.js v7 -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="visualization.js"></script>
+</body>
+</html>

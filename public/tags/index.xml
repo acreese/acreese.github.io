@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alex Reese | Portfolio</title>
-    <link>http://localhost:65225/tags/</link>
+    <link>https://alex-reese.com/tags/</link>
     <description>Recent content in Tags on Alex Reese | Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2024 11:50:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:65225/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Oct 2025 19:41:01 +0530</lastBuildDate>
+    <atom:link href="https://alex-reese.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D3.js</title>
+      <link>https://alex-reese.com/tags/d3.js/</link>
+      <pubDate>Thu, 23 Oct 2025 19:41:01 +0530</pubDate>
+      <guid>https://alex-reese.com/tags/d3.js/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Data Viz</title>
-      <link>http://localhost:65225/tags/data-viz/</link>
-      <pubDate>Wed, 16 Oct 2024 11:50:00 +0000</pubDate>
-      <guid>http://localhost:65225/tags/data-viz/</guid>
+      <link>https://alex-reese.com/tags/data-viz/</link>
+      <pubDate>Thu, 23 Oct 2025 19:41:01 +0530</pubDate>
+      <guid>https://alex-reese.com/tags/data-viz/</guid>
       <description></description>
     </item>
     <item>
       <title>Power BI</title>
-      <link>http://localhost:65225/tags/power-bi/</link>
+      <link>https://alex-reese.com/tags/power-bi/</link>
       <pubDate>Wed, 16 Oct 2024 11:50:00 +0000</pubDate>
-      <guid>http://localhost:65225/tags/power-bi/</guid>
+      <guid>https://alex-reese.com/tags/power-bi/</guid>
       <description></description>
     </item>
     <item>
       <title>Tableau</title>
-      <link>http://localhost:65225/tags/tableau/</link>
+      <link>https://alex-reese.com/tags/tableau/</link>
       <pubDate>Mon, 16 Sep 2024 11:50:00 +0000</pubDate>
-      <guid>http://localhost:65225/tags/tableau/</guid>
+      <guid>https://alex-reese.com/tags/tableau/</guid>
       <description></description>
     </item>
     <item>
       <title>ETL</title>
-      <link>http://localhost:65225/tags/etl/</link>
+      <link>https://alex-reese.com/tags/etl/</link>
       <pubDate>Fri, 04 Nov 2022 19:41:01 +0530</pubDate>
-      <guid>http://localhost:65225/tags/etl/</guid>
+      <guid>https://alex-reese.com/tags/etl/</guid>
       <description></description>
     </item>
     <item>
       <title>NLP</title>
-      <link>http://localhost:65225/tags/nlp/</link>
+      <link>https://alex-reese.com/tags/nlp/</link>
       <pubDate>Mon, 29 Aug 2022 19:53:42 +0530</pubDate>
-      <guid>http://localhost:65225/tags/nlp/</guid>
+      <guid>https://alex-reese.com/tags/nlp/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:65225/tags/python/</link>
+      <link>https://alex-reese.com/tags/python/</link>
       <pubDate>Mon, 29 Aug 2022 19:53:42 +0530</pubDate>
-      <guid>http://localhost:65225/tags/python/</guid>
+      <guid>https://alex-reese.com/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>SQL</title>
-      <link>http://localhost:65225/tags/sql/</link>
+      <link>https://alex-reese.com/tags/sql/</link>
       <pubDate>Mon, 29 Aug 2022 19:53:42 +0530</pubDate>
-      <guid>http://localhost:65225/tags/sql/</guid>
+      <guid>https://alex-reese.com/tags/sql/</guid>
       <description></description>
     </item>
     <item>
       <title>Graphic Design</title>
-      <link>http://localhost:65225/tags/graphic-design/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      <guid>http://localhost:65225/tags/graphic-design/</guid>
+      <link>https://alex-reese.com/tags/graphic-design/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>https://alex-reese.com/tags/graphic-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Illustrator</title>
-      <link>http://localhost:65225/tags/illustrator/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
-      <guid>http://localhost:65225/tags/illustrator/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web Design</title>
-      <link>http://localhost:65225/tags/web-design/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
-      <guid>http://localhost:65225/tags/web-design/</guid>
+      <link>https://alex-reese.com/tags/illustrator/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>https://alex-reese.com/tags/illustrator/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:65225/tags/machine-learning/</link>
+      <link>https://alex-reese.com/tags/machine-learning/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      <guid>http://localhost:65225/tags/machine-learning/</guid>
+      <guid>https://alex-reese.com/tags/machine-learning/</guid>
       <description></description>
     </item>
   </channel>
