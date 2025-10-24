@@ -1,6 +1,6 @@
 +++
 date = "2025-10-23T19:41:01+05:30"
-title = "Visualizing Plant Taxonomy with D3.js"
+title = "Visualizing Flowering Plant Taxonomy with D3.js"
 draft = false
 image = "img/portfolio/lamiales_visual_20251023.png"
 showonlyimage = false
@@ -8,7 +8,7 @@ weight = 1
 tags = ['D3.js','Data Viz']
 +++
 
-Playing around with D3.js
+My recent adventures in D3.js
 
 <div class=Tags>
 <span><a href="/tags/python/">D3.js</a></span>
