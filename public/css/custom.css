@@ -65,14 +65,14 @@ ul.sidebar-menu li {
   background-color: #ffffff;
 
   border-width: 1px;
-  border-color: #ff7473;
+  border-color: #3700ff;
   border-radius: 20px;
 
   font-weight: 700;
 }
 
 .sidebar-menu li.active a {
-  background-color: #ff7473;
+  background-color: #5c2fff;
   color: #ffffff;
   font-weight: 700;
 }
@@ -250,7 +250,7 @@ body {
 
 a:hover,
 a:focus {
-  color: #ff2826;
+  color: #2800b6;
   text-decoration: none;
 }
 
