@@ -21,7 +21,7 @@ publishDir = "public"
   description = "Samples of my professional and project work in data analysis, data visualization, data science, and graphic design."
   copyright = "&copy;2025 Alexander Reese"
   sidebarAbout = [
-    "I'm Alex Reese. I'm a data visualizatoin analyst using Tableau, Power BI, D3.js, & Python",
+    "I'm Alex Reese. I'm a data visualization analyst using Tableau, Power BI, D3.js, & Python",
     "M.S. Univeristy of Texas at Austin, B.S. Cornell University",
   ]
   # Contact page

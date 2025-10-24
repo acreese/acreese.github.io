@@ -8,7 +8,7 @@ weight = 1.5
 tags = ['Tableau','Data Viz']
 +++
 
-Sample sales acquisition, retention, and churn rates in Tableau.
+Sales acquisition, retention, and churn rates in Tableau.
 
 <div class=Tags>
 <span><a href="/tags/tableau/">Tableau</a></span>
