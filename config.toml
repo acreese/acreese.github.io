@@ -22,7 +22,7 @@ publishDir = "public"
   copyright = "&copy;2025 Alexander Reese"
   sidebarAbout = [
     "I'm Alex Reese. I'm a data visualization analyst using Tableau, Power BI, D3.js, & Python",
-    "M.S. Univeristy of Texas at Austin, B.S. Cornell University",
+    "M.S. Univeristy of Texas at Austin, B.S. Cornell University"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
