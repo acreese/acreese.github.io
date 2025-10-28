@@ -65,14 +65,14 @@ ul.sidebar-menu li {
   background-color: #ffffff;
 
   border-width: 1px;
-  border-color: #ff7473;
+  border-color: #3700ff;
   border-radius: 20px;
 
   font-weight: 700;
 }
 
 .sidebar-menu li.active a {
-  background-color: #ff7473;
+  background-color: #5c2fff;
   color: #ffffff;
   font-weight: 700;
 }
@@ -191,7 +191,7 @@ h4 + p.social {
   line-height: 2em;
   color: #928b8b;
   /* background-color: #F6F6F6; */
-  background-color: #ffdbdb;
+  background-color: #e3dbff;
   border-radius: 12px;
 }
 
@@ -216,7 +216,7 @@ h4 + p.social {
 
 
 .box-masonry {
-  border-radius: 0px 0px 12px 12px; 
+  border-radius: 7px 7px 7px 7px; 
 } 
 
 .box-masonry .box-masonry-text p {
@@ -250,7 +250,7 @@ body {
 
 a:hover,
 a:focus {
-  color: #ff2826;
+  color: #2800b6;
   text-decoration: none;
 }
 
