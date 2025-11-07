@@ -8,7 +8,7 @@ weight = 4
 tags = ['Python','Machine Learning', 'Data Viz']
 +++
 
-Creation of netowrk graph & comparison of algorithmic clustering and community detection among of scientific authors of COVID-19 Research. [[GitHub]](https://github.com/acreese/covid_coauthorship_community_detection)
+Creation of netowrk graph & comparison of algorithmic clustering and community detection among of scientific authors of COVID-19 Research.
 
 <div class=Tags>
 <span><a href="/tags/python/">Python</a></span>

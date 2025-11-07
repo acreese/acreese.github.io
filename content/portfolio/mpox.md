@@ -4,7 +4,7 @@ title = "Automated Monkeypox Case Dashboard"
 draft = false
 image = "img/portfolio/laptop_mpox_dash_1.png"
 showonlyimage = false
-weight = 1.5
+weight = 2
 tags = ['Python', 'SQL', 'Tableau','Data Viz', 'ETL']
 +++
 
