@@ -8,7 +8,7 @@ weight = 1
 tags = ['Tableau','ETL','Data Viz']
 +++
 
-Human Resource Dashboard for Georgia Tech's Professional Education (GTPE) Course Development Unit using Python API calls and complex Tableau tables.
+Developed a human resource allocation dashboard for Georgia Tech Professional Education to optimize staffing across course development projects. Integrated data from project management systems via Python API calls and built complex Tableau calculations to track resource utilization, capacity planning, and project timelines.
 
 <div class=Tags>
 <span><a href="/tags/python/">Python</a></span>
@@ -18,6 +18,30 @@ Human Resource Dashboard for Georgia Tech's Professional Education (GTPE) Course
 </div>
 <!--more-->
 <hr>
+
+#### Project Overview
+
+Georgia Tech Professional Education needed visibility into how instructional designers, subject matter experts, and project managers were allocated across multiple concurrent course development initiatives. This dashboard provides program leadership with real-time insights into team capacity, workload distribution, and project staffing needs.
+
+**Business Impact:**
+- Enabled data-driven staffing decisions for 20+ concurrent course development projects
+- Identified resource bottlenecks before they impacted project timelines
+- Improved workload balance across the course development team
+- Provided visibility into capacity for new project intake decisions
+
+**Technical Implementation:**
+- **Python API Integration**: Automated data extraction from project management systems
+- **ETL Pipeline**: Transformed and cleaned staffing data for analysis
+- **Advanced Tableau Calculations**: Built custom metrics for utilization rates, capacity forecasting, and timeline tracking
+- **Interactive Filtering**: Enabled managers to view allocations by person, project, skill set, and time period
+
+**Key Features:**
+- Resource utilization heatmaps showing team member allocation percentages
+- Timeline views of project staffing needs and availability
+- Skill-based filtering to match expertise with project requirements
+- Capacity planning forecasts for upcoming quarters
+
+*Dashboard displays sample data for information security*
 
 #### Resource Allocation Dashboard
 
