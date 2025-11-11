@@ -1,14 +1,14 @@
 +++
 image = "img/portfolio/igive_infographic.png"
 showonlyimage = true
-date = "2016-11-05T20:23:59+05:30"
+date = "2021-11-05T20:23:59+05:30"
 title = "Infographic"
 draft = false
 weight = 6
 tags = ['Illustrator','Graphic Design']
 +++
 
-Quick custom Infographic for 2016 UT Austin iSchool fundraising campaign
+Quick custom Infographic for 2021 UT Austin iSchool fundraising campaign
 
 <div class=Tags>
 <span><a href="/tags/illustrator/">Illustrator</a></span>

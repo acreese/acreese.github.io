@@ -1,10 +1,10 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Project Management Course Development Dashboards"
+title = "Project Portfolio Scorecard & Status Dashboards"
 draft = false
 image = "img/portfolio/GTPE_dual_screen_dash.png"
 showonlyimage = false
-weight = 1
+weight = 1.8
 tags = ['Python','Tableau','ETL','Data Viz']
 +++
 

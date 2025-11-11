@@ -896,7 +896,9 @@ a:active {
   font-size: 50px;
 }
 .box-masonry:hover {
-  box-shadow: 0 0 5px #999;
+  /*box-shadow: 0 0 5px #999; */
+  box-shadow: 0 0 5px #28339460
+
 }
 .box-masonry:hover .box-masonry-hover-text-header {
   opacity: 1;

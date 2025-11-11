@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Alex Reese | Portfolio</title>
-    <link>http://localhost:1313/tags/machine-learning/</link>
+    <link>https://alex-reese.com/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Alex Reese | Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:50:47 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alex-reese.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COVID Authorship Community Detection with Machine Learning</title>
-      <link>http://localhost:1313/portfolio/community_detection/</link>
+      <link>https://alex-reese.com/portfolio/community_detection/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      <guid>http://localhost:1313/portfolio/community_detection/</guid>
-      <description>&lt;p&gt;Applied unsupervised machine learning to analyze a network of 260,000+ COVID-19 research authors, identifying collaboration communities using advanced graph algorithms. Compared Infomap clustering and GraphSAGE node embeddings to reveal patterns in scientific collaboration during the pandemic.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/machine-learning/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;GraphSAGE&lt;/span&gt;&#xA;&lt;span&gt;Infomap&lt;/span&gt;&#xA;&lt;span&gt;t-SNE&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <guid>https://alex-reese.com/portfolio/community_detection/</guid>
+      <description>&lt;p&gt;Creation of netowrk graph &amp;amp; comparison of algorithmic clustering and community detection among of scientific authors of COVID-19 Research.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/machine-learning/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;GraphSAGE&lt;/span&gt;&#xA;&lt;span&gt;Infomap&lt;/span&gt;&#xA;&lt;span&gt;t-SNE&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
