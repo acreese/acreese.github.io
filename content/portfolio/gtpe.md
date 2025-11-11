@@ -8,7 +8,7 @@ weight = 1.8
 tags = ['Python','Tableau','ETL','Data Viz']
 +++
 
-Data diagraming, data wrangling/ETL, and dashboard creation for Georgia Tech's Professional Education (GTPE) Course Portfolio Development.
+Designed and implemented a complete analytics solution for Georgia Tech Professional Education's course development pipeline, integrating ClickUp project data via Python APIs with custom business logic to enable data-driven intake decisions for 30+ course requests.
 
 <div class=Tags>
 <span><a href="/tags/python/">Python</a></span>
@@ -19,13 +19,38 @@ Data diagraming, data wrangling/ETL, and dashboard creation for Georgia Tech's P
 <!--more-->
 <hr>
 
-[Georgia Tech Professional Education (GTPE)](https://pe.gatech.edu/) creates credentials and courses for online Master degree programs as well non-credit courses requested by outside organizations. Until now, GTPE had no structured intake process for evaluating, prioritizing, and initiating these courses. 
+#### Project Overview
 
-My work with GTPE has contributed to the development and support of this intake process through **data flow diagramming, data wrangling and establishing data pipelines with Python, and data analysis, visualization, and dahsboard reporting with Tableau**. 
+[Georgia Tech Professional Education (GTPE)](https://pe.gatech.edu/) develops credentials and courses for online Master's degree programs and custom courses requested by external organizations. The organization lacked a structured system for evaluating, prioritizing, and tracking these course development requests, making it difficult for leadership to make informed intake decisions.
 
-The resulting dashboards allow external requestors to track the progress of their course's development and allow internal GTPE executives to make data-driven intake decisions based on each course's projected business value, resource requirements, and risks. 
+**Business Challenge:**
+With 30+ course requests in various stages, executives needed visibility into projected business value, resource requirements, and development risks across the portfolio. External requestors also needed transparency into their course's development progress.
 
-*For information security, the dahsboards below show sample data*
+**My Role:**
+I led the end-to-end development of this analytics solution, from data flow diagramming through ETL pipeline implementation to dual-audience dashboard design. This work established GTPE's first systematic approach to course portfolio management.
+
+**Technical Implementation:**
+
+**Python ETL Pipeline:**
+- Built automated data pipeline using Python to extract data from ClickUp API
+- Implemented complex transformation logic to normalize inconsistent project data across different course types
+- Applied course-specific business rules requiring unique handling for various program formats
+- Performed extensive data pivoting and restructuring for analysis
+- Integrated supplementary HR data and business logic from external files to enrich project context
+- Automated daily data refresh to keep dashboards current
+
+**Tableau Dashboards:**
+- **Executive Intake Dashboard**: Prioritization tool showing business value scores, resource needs, and risk assessments for all pending course requests
+- **External Requestor Dashboard**: Progress tracking interface providing transparency to course sponsors
+
+**Business Impact:**
+The dashboards transformed GTPE's course intake process by:
+- Enabling executives to make evidence-based intake decisions using standardized evaluation criteria
+- Providing transparency to external partners on development timelines and milestones
+- Consolidating fragmented project information from ClickUp into a cohesive portfolio view
+- Eliminating manual status report creation through automated dashboard updates
+
+*Dashboards below display sample data for information security*
 
 #### Executive Intake Dashboard
 
