@@ -4,7 +4,7 @@ showonlyimage = false
 draft = false
 date = "2022-08-29T19:53:42+05:30"
 title = "Meme Generator Natural Language Processing and Sentiment Analysis"
-weight = 4
+weight = 5
 tags = ["Python","SQL","Tableau",'ETL','NLP','Data Viz']
 categories = ['Data Viz']
 +++

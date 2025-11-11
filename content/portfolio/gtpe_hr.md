@@ -1,10 +1,10 @@
 +++
 date = "2022-11-04T19:41:01+05:30"
-title = "Georgia Tech GTPE Human Resource Dashboard"
+title = "Human Resource & Project Management Tracker in Tableau"
 draft = false
 image = "img/portfolio/gtpe_hr_mockup.png"
 showonlyimage = false
-weight = 1
+weight = 2.5
 tags = ['Tableau','ETL','Data Viz']
 +++
 

@@ -2,9 +2,9 @@
 image = "img/portfolio/smpl_dash_2.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "San Marcos Library Collection & User Analysis"
+title = "Library Collection & User Analysis"
 draft = false
-weight = 2
+weight = 4
 tags = ['Tableau','Data Viz']
 +++
 

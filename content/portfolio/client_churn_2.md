@@ -1,10 +1,10 @@
 +++
 date = "2024-10-16T11:50:00+00:00"
-title = "Monthly Client Churn Power BI Dashboard"
+title = "Monthly Client Churn in Power BI"
 draft = false
 image = "img/portfolio/churn_dash_2.png"
 showonlyimage = false
-weight = 1
+weight = 2
 tags = ['Power BI','Data Viz']
 +++
 

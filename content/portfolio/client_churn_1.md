@@ -4,7 +4,7 @@ title = "Quarterly Sales Churn Tableau Dashboard"
 draft = false
 image = "img/portfolio/churn_quarterly_tableau.png"
 showonlyimage = false
-weight = 1.5
+weight = 3
 tags = ['Tableau','Data Viz']
 +++
 

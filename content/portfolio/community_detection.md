@@ -8,7 +8,11 @@ weight = 4
 tags = ['Python','Machine Learning', 'Data Viz']
 +++
 
+<<<<<<< HEAD
 Applied unsupervised machine learning to analyze a network of 260,000+ COVID-19 research authors, identifying collaboration communities using advanced graph algorithms. Compared Infomap clustering and GraphSAGE node embeddings to reveal patterns in scientific collaboration during the pandemic.
+=======
+Creation of netowrk graph & comparison of algorithmic clustering and community detection among of scientific authors of COVID-19 Research.
+>>>>>>> f4c1862 (Add new project contents and adjust wording across projects)
 
 <div class=Tags>
 <span><a href="/tags/python/">Python</a></span>
