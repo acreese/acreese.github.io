@@ -1,17 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Illustrator on Alex Reese | Portfolio</title><link>https://alex-reese.com/tags/illustrator/</link><description>Recent content in Illustrator on Alex Reese | Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate><atom:link href="https://alex-reese.com/tags/illustrator/index.xml" rel="self" type="application/rss+xml"/><item><title>Infographic</title><link>https://alex-reese.com/portfolio/data_diary/</link><pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate><guid>https://alex-reese.com/portfolio/data_diary/</guid><description>&lt;p>Handmade Custom Visuals :)&lt;/p>
-&lt;div class=Tags>
-&lt;span>&lt;a href="https://alex-reese.com/tags/data-viz/">Data Viz&lt;/a>&lt;/span>
-&lt;span>&lt;a href="https://alex-reese.com/tags/illustrator/">Illustrator&lt;/a>&lt;/span>
-&lt;/div></description></item><item><title>Infographic</title><link>https://alex-reese.com/portfolio/igive/</link><pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate><guid>https://alex-reese.com/portfolio/igive/</guid><description>Quick custom Infographic for 2016 UT Austin iSchool fundraising campaign
-Illustrator Graphic Design</description></item><item><title>Early Work</title><link>https://alex-reese.com/portfolio/old_portfolio/</link><pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate><guid>https://alex-reese.com/portfolio/old_portfolio/</guid><description>&lt;p>Data visualization, graphic design, landscape design, and urban planning work&lt;/p>
-&lt;div class=Tags>
-&lt;span>&lt;a href="https://alex-reese.com/tags/data-viz/">Data Viz&lt;/a>&lt;/span>
-&lt;span>&lt;a href="https://alex-reese.com/tags/graphic-design/">Graphic Design&lt;/a>&lt;/span>
-&lt;span>&lt;a href="https://alex-reese.com/tags/illustrator/">Illustrator&lt;/a>&lt;/span>
-&lt;span>Photoshop&lt;/span>
-&lt;span>3D&lt;/span>
-&lt;!--&lt;span>InDesign&lt;/span>
-&lt;span>Rhino 3D&lt;/span>
-&lt;span>Grasshopper&lt;/span>
-&lt;span>V-Ray&lt;/span> -->
-&lt;/div></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Illustrator on Alex Reese | Portfolio</title>
+    <link>http://localhost:1313/tags/illustrator/</link>
+    <description>Recent content in Illustrator on Alex Reese | Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/illustrator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infographic</title>
+      <link>http://localhost:1313/portfolio/data_diary/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/data_diary/</guid>
+      <description>&lt;p&gt;Handmade Custom Visuals :)&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Infographic</title>
+      <link>http://localhost:1313/portfolio/igive/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/igive/</guid>
+      <description>&lt;p&gt;Quick custom Infographic for 2016 UT Austin iSchool fundraising campaign&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/graphic-design/&#34;&gt;Graphic Design&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&lt;!--more&#xA;&#xA;I received a nomination for Student Employee of the year for my work on this campaign with UT Austin&#39;s iSchool&#39;s Developoment Team.&#xA;&#xA;![Infographic](/img/portfolio/igive_infographic.png)--&gt;</description>
+    </item>
+    <item>
+      <title>Early Work</title>
+      <link>http://localhost:1313/portfolio/old_portfolio/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>http://localhost:1313/portfolio/old_portfolio/</guid>
+      <description>&lt;p&gt;Data visualization, graphic design, landscape design, and urban planning work&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/graphic-design/&#34;&gt;Graphic Design&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;http://localhost:1313/tags/illustrator/&#34;&gt;Illustrator&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Photoshop&lt;/span&gt;&#xA;&lt;span&gt;3D&lt;/span&gt;&#xA;&lt;!--&lt;span&gt;InDesign&lt;/span&gt;&#xA;&lt;span&gt;Rhino 3D&lt;/span&gt;&#xA;&lt;span&gt;Grasshopper&lt;/span&gt;&#xA;&lt;span&gt;V-Ray&lt;/span&gt; --&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
