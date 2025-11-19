@@ -9,32 +9,32 @@
     <lastBuildDate>Thu, 23 Oct 2025 19:41:01 +0530</lastBuildDate>
     <atom:link href="https://alex-reese.com/tags/data-viz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Network &amp; Hierarhcy Mapping with D3.js</title>
+      <title>Network &amp; Hierarchy Mapping with D3.js</title>
       <link>https://alex-reese.com/portfolio/taxonomy_d3/</link>
       <pubDate>Thu, 23 Oct 2025 19:41:01 +0530</pubDate>
       <guid>https://alex-reese.com/portfolio/taxonomy_d3/</guid>
-      <description>&lt;p&gt;Recent adventures in D3.js exploring interactivity with flowering plant taxonomy&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/D3.js/&#34;&gt;D3.js&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Interactive taxonomy explorer built in D3.js to trace how the Lamiales order of flowering plants has been described over time.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/D3.js/&#34;&gt;D3.js&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Project Portfolio Scorecard &amp; Status Dashboards</title>
       <link>https://alex-reese.com/portfolio/gtpe/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       <guid>https://alex-reese.com/portfolio/gtpe/</guid>
-      <description>&lt;p&gt;Data diagraming, data wrangling/ETL, and dashboard creation for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Portfolio Development.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;!--&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;--&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Designed and implemented a complete analytics solution for Georgia Tech Professional Education&amp;rsquo;s course development pipeline, integrating ClickUp project data via Python APIs with custom business logic to enable data-driven intake decisions for 30+ course requests.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;!--&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;--&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Monthly Client Churn in Power BI</title>
       <link>https://alex-reese.com/portfolio/client_churn_2/</link>
       <pubDate>Wed, 16 Oct 2024 11:50:00 +0000</pubDate>
       <guid>https://alex-reese.com/portfolio/client_churn_2/</guid>
-      <description>&lt;p&gt;Organizational client churn, retention/return, and tenure dashboards in Power BI.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/power-bi/&#34;&gt;Power BI&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Built Power BI dashboards from scratch to establish the first-ever client churn analysis system for a healthcare non-profit, revealing seasonal patterns and program impact insights that enabled data-driven service optimization.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/power-bi/&#34;&gt;Power BI&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Human Resource &amp; Project Management Tracker in Tableau</title>
       <link>https://alex-reese.com/portfolio/gtpe_hr/</link>
       <pubDate>Fri, 04 Nov 2022 19:41:01 +0530</pubDate>
       <guid>https://alex-reese.com/portfolio/gtpe_hr/</guid>
-      <description>&lt;p&gt;Human Resource Dashboard for Georgia Tech&amp;rsquo;s Professional Education (GTPE) Course Development Unit using Python API calls and complex Tableau tables.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;!--&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;--&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Developed a human resource allocation dashboard for Georgia Tech Professional Education to optimize staffing across course development projects. Integrated data from project management systems via Python API calls and built complex Tableau calculations to track resource utilization, capacity planning, and project timelines.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;!--&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;--&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Infographic</title>
@@ -48,14 +48,14 @@
       <link>https://alex-reese.com/portfolio/mpox/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       <guid>https://alex-reese.com/portfolio/mpox/</guid>
-      <description>&lt;p&gt;An automated Tableau dashboard powered by an AWS Lambda ETL function (in Python) that updates an RDS PostgreSQL database daily.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/sql&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;!--&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;--&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Built a daily-updating public health dashboard during the 2022 monkeypox emergency to keep case counts fresh without manual effort. The pipeline ingests public health data, validates it, and pushes it straight to a Tableau-ready database so outbreaks can be monitored in near real time.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/sql&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;!--&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;--&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Quarterly Sales Churn Tableau Dashboard</title>
       <link>https://alex-reese.com/portfolio/client_churn_1/</link>
       <pubDate>Mon, 16 Sep 2024 11:50:00 +0000</pubDate>
       <guid>https://alex-reese.com/portfolio/client_churn_1/</guid>
-      <description>&lt;p&gt;Sales acquisition, retention, and churn rates in Tableau.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Tableau exploration of acquisition, retention, and churn to spot at-risk segments before they slip away.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>COVID Authorship Community Detection with Machine Learning</title>
@@ -69,14 +69,14 @@
       <link>https://alex-reese.com/portfolio/smpl/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       <guid>https://alex-reese.com/portfolio/smpl/</guid>
-      <description>&lt;p&gt;Collection, circulation, and patron data analysis and visualization for internal library use.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Excel&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Analyzed 3.9 million circulation records and 122,000 collection items for San Marcos Public Library, revealing COVID-19&amp;rsquo;s dramatic impact on service usage and identifying collection acquisition gaps that informed strategic planning.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;Excel&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Meme Generator Natural Language Processing and Sentiment Analysis</title>
       <link>https://alex-reese.com/portfolio/memes/</link>
       <pubDate>Mon, 29 Aug 2022 19:53:42 +0530</pubDate>
       <guid>https://alex-reese.com/portfolio/memes/</guid>
-      <description>&lt;p&gt;Data wrangling using Python and SQL meme text, images, and 82 language sentiment lexicons into a realational MySQL database for language and sentiment analysis. Visualization with Tableau.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/sql/&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;!--&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/nlp/&#34;&gt;NLP&lt;/a&gt;&lt;/span&gt;--&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;p&gt;Designed and built a multilingual sentiment analysis system to analyze 57,000+ internet meme instances across 82 languages. Developed a relational MySQL database schema and Python ETL pipeline to process text, apply NLP techniques for language detection, and calculate sentiment scores. Created interactive Tableau dashboards to visualize sentiment patterns across meme types and languages.&lt;/p&gt;&#xA;&lt;div class=Tags&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/python/&#34;&gt;Python&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/sql/&#34;&gt;SQL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/tableau/&#34;&gt;Tableau&lt;/a&gt;&lt;/span&gt;&#xA;&lt;!--&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/etl/&#34;&gt;ETL&lt;/a&gt;&lt;/span&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/nlp/&#34;&gt;NLP&lt;/a&gt;&lt;/span&gt;--&gt;&#xA;&lt;span&gt;&lt;a href=&#34;https://alex-reese.com/tags/data-viz/&#34;&gt;Data Viz&lt;/a&gt;&lt;/span&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Sample Dashboard</title>
