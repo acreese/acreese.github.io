@@ -210,7 +210,7 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>Meme Generator Natural Language Processing and Sentiment Analysis</h1>
-         <p>Designed and built a multilingual sentiment analysis system to analyze 57,000+ internet meme instances across 82 languages. Developed a relational MySQL database schema and Python ETL pipeline to process text, apply NLP techniques for language detection, and calculate sentiment scores. Created interactive Tableau dashboards to visualize sentiment patterns across meme types and languages.</p>
+         <p>Built a lightweight meme sentiment explorer with collaborator Liz Seeley to practice multilingual NLP and dashboarding. The project ingests 57,000+ meme instances across 82 languages, scores sentiment with lexicons, and lets you slice the results in Tableau without taking itself too seriously.</p>
 <div class=Tags>
 <span><a href="/tags/python/">Python</a></span>
 <span><a href="/tags/sql/">SQL</a></span>
@@ -219,22 +219,21 @@
 <span><a href="/tags/nlp/">NLP</a></span>-->
 <span><a href="/tags/data-viz/">Data Viz</a></span>
 </div>
-<p>See this project&rsquo;s: <a href="https://github.com/acreese/meme-generator_data-wrangling">GitHub Repository</a> and documentation</p>
-<p><img src="/img/portfolio/meme_samples.png" alt="English, Spanish, and Russian memes"></p>
-<div class='tableauPlaceholder' id='viz1661783922251' style='position: relative'><noscript><a href='#'><img alt='Identifying sentiment in multilingual memesdata source: Library of Congress; analysis by Alexander Reese &amp; Elizabeth Seeley ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Me&#47;MemeGeneratorLanguageandSentiment&#47;FinalDraftDashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MemeGeneratorLanguageandSentiment&#47;FinalDraftDashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Me&#47;MemeGeneratorLanguageandSentiment&#47;FinalDashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1661783922251');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='927px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='927px';} else { vizElement.style.width='100%';vizElement.style.height='2177px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-<p><br></br></p>
-<h3 id="project-summary">Project Summary</h3>
-<p>This project demonstrates skills in database design, ETL pipeline development, natural language processing, and multilingual data analysis. Working with collaborator Liz Seeley, I designed a relational database schema to organize 57,000 meme instances derived from 800+ base memes, then built Python scripts to extract text, identify languages using the <code>langid</code> library, and calculate sentiment scores using SUNY Data Science Lab&rsquo;s lexicons covering 81 languages.</p>
-<p><strong>Technical Approach:</strong></p>
+<hr>
+<h4 id="what-i-built">What I built</h4>
 <ul>
-<li>Designed normalized MySQL database structure for meme text, images, and sentiment data</li>
-<li>Developed Python ETL pipeline to process and load data from Library of Congress sources</li>
-<li>Implemented NLP workflow: language detection → sentiment lexicon matching → score calculation</li>
-<li>Created SQL queries to aggregate sentiment scores across meme types and languages</li>
-<li>Built interactive Tableau dashboards to explore sentiment patterns and language distributions</li>
+<li>MySQL schema and Python ETL that standardize meme text from the Library of Congress collection.</li>
+<li>Language detection and sentiment scoring with multilingual lexicons covering 80+ languages.</li>
+<li>Tableau dashboard to filter by language, meme base image, and sentiment trends.</li>
 </ul>
+<h4 id="notes">Notes</h4>
+<ul>
+<li>Early grad-school experiment—kept simple but reproducible in notebooks.</li>
+<li>Repo and docs: <a href="https://github.com/acreese/meme-generator_data-wrangling">GitHub</a></li>
+</ul>
+<p><img src="/img/portfolio/meme_samples.png" alt="English, Spanish, and Russian memes"></p>
+<div class='tableauPlaceholder' id='viz1661783922251' style='position: relative'><noscript><a href='#'><img alt='Identifying sentiment in multilingual memesdata source: Library of Congress; analysis by Alexander Reese &amp; Elizabeth Seeley ' src='https://public.tableau.com/static/images/Me/MemeGeneratorLanguageandSentiment/FinalDraftDashboard2/1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MemeGeneratorLanguageandSentiment/FinalDraftDashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https://public.tableau.com/static/images/Me/MemeGeneratorLanguageandSentiment/FinalDashboard2/1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1661783922251');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='927px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='927px';} else { vizElement.style.width='100%';vizElement.style.height='2177px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                  vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 <p><img src="/img/portfolio/meme_database_diagram.jpeg" alt="Database diagram"></p>
-<p><img src="/img/portfolio/meme_database_flow.jpeg" alt="Data wrangling flow"></p>
          
       </div>
     </div>
